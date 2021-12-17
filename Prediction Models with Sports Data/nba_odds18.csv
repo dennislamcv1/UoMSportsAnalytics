@@ -1,0 +1,1231 @@
+﻿GAME_ID,HOME,AWAY,Score_h,Score_a,odds_h,odds_a
+21800001,Boston Celtics , Philadelphia 76ers,105,87,-213,179
+21800002,Golden State Warriors , Oklahoma City Thunder,108,100,-1111,753
+21800003,Charlotte Hornets , Milwaukee Bucks,112,113,139,-161
+21800004,Detroit Pistons , Brooklyn Nets,103,100,-250,210
+21800005,Indiana Pacers , Memphis Grizzlies,111,83,-294,247
+21800006,Orlando Magic , Miami Heat,104,101,114,-133
+21800007,New York Knicks , Atlanta Hawks,126,107,-164,141
+21800008,Toronto Raptors , Cleveland Cavaliers,116,104,-1250,790
+21800009,Houston Rockets , New Orleans Pelicans,112,131,-357,289
+21800010,San Antonio Spurs , Minnesota Timberwolves,112,108,-143,123
+21800011,Sacramento Kings , Utah Jazz,117,123,325,-400
+21800012,Los Angeles Clippers , Denver Nuggets,98,107,114,-132
+21800013,Phoenix Suns , Dallas Mavericks,121,100,119,-139
+21800014,Philadelphia 76ers , Chicago Bulls,127,108,-1000,695
+21800015,Washington Wizards , Miami Heat,112,113,-250,206
+21800016,Portland Trail Blazers , Los Angeles Lakers,128,119,-149,129
+21800017,Orlando Magic , Charlotte Hornets,88,120,102,-119
+21800018,Brooklyn Nets , New York Knicks,107,105,-169,146
+21800019,Toronto Raptors , Boston Celtics,113,101,-149,129
+21800020,Memphis Grizzlies , Atlanta Hawks,131,117,-286,239
+21800021,Minnesota Timberwolves , Cleveland Cavaliers,131,123,-385,312
+21800022,New Orleans Pelicans , Sacramento Kings,149,129,-769,580
+21800023,Milwaukee Bucks , Indiana Pacers,118,101,-172,150
+21800024,Utah Jazz , Golden State Warriors,123,124,118,-135
+21800025,Los Angeles Clippers , Oklahoma City Thunder,108,92,-149,129
+21800026,Indiana Pacers , Brooklyn Nets,132,112,-385,308
+21800027,Washington Wizards , Toronto Raptors,113,117,-127,108
+21800028,New York Knicks , Boston Celtics,101,103,384,-500
+21800029,Philadelphia 76ers , Orlando Magic,116,115,-1429,861
+21800030,Miami Heat , Charlotte Hornets,112,113,-161,140
+21800031,Chicago Bulls , Detroit Pistons,116,118,165,-192
+21800032,Dallas Mavericks , Minnesota Timberwolves,140,136,-123,106
+21800033,Denver Nuggets , Phoenix Suns,119,91,-588,445
+21800034,Portland Trail Blazers , San Antonio Spurs,121,108,-192,165
+21800035,Los Angeles Lakers , Houston Rockets,115,124,134,-156
+21800036,Cleveland Cavaliers , Atlanta Hawks,111,133,-370,300
+21800037,Oklahoma City Thunder , Sacramento Kings,120,131,-714,532
+21800038,Denver Nuggets , Golden State Warriors,100,98,168,-200
+21800039,Los Angeles Clippers , Houston Rockets,115,112,-130,112
+21800040,Boston Celtics , Orlando Magic,90,93,-833,610
+21800041,Toronto Raptors , Charlotte Hornets,127,106,-417,336
+21800042,Milwaukee Bucks , New York Knicks,124,113,-769,574
+21800043,Minnesota Timberwolves , Indiana Pacers,101,91,-132,112
+21800044,Dallas Mavericks , Chicago Bulls,115,109,-208,175
+21800045,Utah Jazz , Memphis Grizzlies,84,92,-588,450
+21800046,Portland Trail Blazers , Washington Wizards,124,125,-196,167
+21800047,Golden State Warriors , Phoenix Suns,123,103,-1111,735
+21800048,Los Angeles Lakers , San Antonio Spurs,142,143,-116,100
+21800049,Detroit Pistons , Philadelphia 76ers,133,132,-103,-111
+21800050,New Orleans Pelicans , Los Angeles Clippers,116,109,-233,197
+21800051,Denver Nuggets , Sacramento Kings,126,112,-833,599
+21800052,Atlanta Hawks , Dallas Mavericks,111,104,106,-125
+21800053,Cleveland Cavaliers , Brooklyn Nets,86,102,-147,129
+21800054,Miami Heat , New York Knicks,110,87,-357,298
+21800055,Toronto Raptors , Minnesota Timberwolves,112,105,-400,320
+21800056,Chicago Bulls , Charlotte Hornets,112,110,165,-192
+21800057,Houston Rockets , Utah Jazz,89,100,-114,-101
+21800058,San Antonio Spurs , Indiana Pacers,96,116,-122,106
+21800059,Milwaukee Bucks , Philadelphia 76ers,123,108,-227,194
+21800060,Phoenix Suns , Los Angeles Lakers,113,131,179,-213
+21800061,Sacramento Kings , Memphis Grizzlies,97,92,124,-143
+21800062,Golden State Warriors , Washington Wizards,144,122,-556,437
+21800063,Detroit Pistons , Cleveland Cavaliers,110,103,-500,395
+21800064,Orlando Magic , Portland Trail Blazers,114,128,138,-161
+21800065,Oklahoma City Thunder , Boston Celtics,95,101,-106,-108
+21800066,Los Angeles Lakers , Denver Nuggets,121,114,102,-119
+21800067,Charlotte Hornets , Chicago Bulls,135,106,-588,451
+21800068,New York Knicks , Golden State Warriors,100,128,672,-1000
+21800069,Toronto Raptors , Dallas Mavericks,116,107,-909,655
+21800070,Houston Rockets , Los Angeles Clippers,113,133,-169,145
+21800071,Minnesota Timberwolves , Milwaukee Bucks,95,125,118,-137
+21800072,New Orleans Pelicans , Brooklyn Nets,117,115,-435,338
+21800073,Sacramento Kings , Washington Wizards,116,112,179,-213
+21800074,Detroit Pistons , Boston Celtics,89,109,140,-161
+21800075,New Orleans Pelicans , Utah Jazz,111,132,195,-227
+21800076,Atlanta Hawks , Chicago Bulls,85,97,-233,193
+21800077,Cleveland Cavaliers , Indiana Pacers,107,119,248,-303
+21800078,Philadelphia 76ers , Charlotte Hornets,105,103,-278,231
+21800079,Miami Heat , Portland Trail Blazers,120,111,-455,189
+21800080,Memphis Grizzlies , Phoenix Suns,117,96,-3333,259
+21800081,Milwaukee Bucks , Orlando Magic,113,91,-556,438
+21800082,San Antonio Spurs , Los Angeles Lakers,110,106,154,-152
+21800083,Brooklyn Nets , Golden State Warriors,114,120,423,-556
+21800084,Dallas Mavericks , Utah Jazz,104,113,164,-192
+21800085,Oklahoma City Thunder , Phoenix Suns,117,110,-1429,886
+21800086,Los Angeles Clippers , Washington Wizards,136,104,-164,141
+21800087,Indiana Pacers , Portland Trail Blazers,93,103,-172,149
+21800088,Philadelphia 76ers , Atlanta Hawks,113,92,-833,588
+21800089,Miami Heat , Sacramento Kings,113,123,-476,376
+21800090,New York Knicks , Brooklyn Nets,115,96,-111,-104
+21800091,Chicago Bulls , Golden State Warriors,124,149,587,-833
+21800092,Milwaukee Bucks , Toronto Raptors,124,109,114,-133
+21800093,Minnesota Timberwolves , Los Angeles Lakers,124,120,106,-123
+21800094,San Antonio Spurs , Dallas Mavericks,113,108,-303,248
+21800095,Denver Nuggets , New Orleans Pelicans,116,111,-476,375
+21800096,Charlotte Hornets , Miami Heat,125,113,-156,136
+21800097,Cleveland Cavaliers , Atlanta Hawks,136,114,-204,174
+21800098,Orlando Magic , Sacramento Kings,99,107,-196,166
+21800099,Boston Celtics , Detroit Pistons,108,105,-400,329
+21800100,Toronto Raptors , Philadelphia 76ers,129,112,-250,211
+21800101,Houston Rockets , Portland Trail Blazers,85,104,-189,162
+21800102,Memphis Grizzlies , Washington Wizards,107,95,-115,100
+21800103,Oklahoma City Thunder , Los Angeles Clippers,128,110,-154,131
+21800104,Brooklyn Nets , Detroit Pistons,120,119,-139,120
+21800105,New York Knicks , Indiana Pacers,101,107,209,-250
+21800106,Chicago Bulls , Denver Nuggets,107,108,301,-370
+21800107,Minnesota Timberwolves , Utah Jazz,128,125,249,-303
+21800108,Golden State Warriors , New Orleans Pelicans,131,121,-476,380
+21800109,Los Angeles Lakers , Dallas Mavericks,114,113,-345,282
+21800110,Phoenix Suns , San Antonio Spurs,90,120,234,-286
+21800111,Charlotte Hornets , Oklahoma City Thunder,107,111,-115,-101
+21800112,Cleveland Cavaliers , Denver Nuggets,91,110,184,-217
+21800113,Philadelphia 76ers , Los Angeles Clippers,122,113,-222,187
+21800114,Atlanta Hawks , Sacramento Kings,115,146,116,-135
+21800115,Boston Celtics , Milwaukee Bucks,117,113,-139,119
+21800116,Portland Trail Blazers , New Orleans Pelicans,132,119,-278,227
+21800117,Orlando Magic , Los Angeles Clippers,95,120,144,-167
+21800118,Brooklyn Nets , Houston Rockets,111,119,152,-175
+21800119,Washington Wizards , Oklahoma City Thunder,111,134,-161,139
+21800120,Chicago Bulls , Indiana Pacers,105,107,256,-312
+21800121,Dallas Mavericks , New York Knicks,106,118,-233,198
+21800122,Utah Jazz , Memphis Grizzlies,100,110,-333,276
+21800123,Phoenix Suns , Toronto Raptors,98,107,480,-667
+21800124,Golden State Warriors , Minnesota Timberwolves,116,99,-714,511
+21800125,Philadelphia 76ers , Detroit Pistons,109,99,-333,274
+21800126,Charlotte Hornets , Cleveland Cavaliers,126,94,-556,426
+21800127,Indiana Pacers , Boston Celtics,102,101,138,-161
+21800128,Atlanta Hawks , Miami Heat,123,118,195,-233
+21800129,Chicago Bulls , Houston Rockets,88,96,319,-400
+21800130,San Antonio Spurs , New Orleans Pelicans,109,95,-132,112
+21800131,Denver Nuggets , Utah Jazz,103,88,-196,166
+21800132,Portland Trail Blazers , Los Angeles Lakers,110,114,-156,135
+21800133,Milwaukee Bucks , Sacramento Kings,144,109,-526,409
+21800134,Brooklyn Nets , Philadelphia 76ers,122,97,152,-179
+21800135,Washington Wizards , New York Knicks,108,95,-270,224
+21800136,Phoenix Suns , Memphis Grizzlies,102,100,152,-179
+21800137,San Antonio Spurs , Orlando Magic,110,117,-345,277
+21800138,Portland Trail Blazers , Minnesota Timberwolves,111,81,-250,208
+21800139,Los Angeles Lakers , Toronto Raptors,107,121,-127,108
+21800140,Detroit Pistons , Miami Heat,115,120,-154,133
+21800141,Indiana Pacers , Houston Rockets,94,98,-112,-103
+21800142,Orlando Magic , Cleveland Cavaliers,102,100,-185,158
+21800143,New York Knicks , Chicago Bulls,115,116,-141,122
+21800144,Oklahoma City Thunder , New Orleans Pelicans,122,116,-167,143
+21800145,Denver Nuggets , Boston Celtics,115,107,-119,102
+21800146,Utah Jazz , Toronto Raptors,111,124,-152,129
+21800147,Golden State Warriors , Memphis Grizzlies,117,101,-1429,866
+21800148,Los Angeles Clippers , Minnesota Timberwolves,120,109,-238,199
+21800149,Charlotte Hornets , Atlanta Hawks,113,102,-833,587
+21800150,Dallas Mavericks , Washington Wizards,119,100,108,-127
+21800151,Phoenix Suns , Brooklyn Nets,82,104,117,-137
+21800152,Portland Trail Blazers , Milwaukee Bucks,118,103,112,-133
+21800153,Cleveland Cavaliers , Oklahoma City Thunder,86,95,216,-263
+21800154,Orlando Magic , Detroit Pistons,96,103,124,-145
+21800155,Atlanta Hawks , New York Knicks,107,112,100,-118
+21800156,Miami Heat , San Antonio Spurs,95,88,-125,108
+21800157,Indiana Pacers , Philadelphia 76ers,94,100,-143,123
+21800158,Memphis Grizzlies , Denver Nuggets,89,87,143,-167
+21800159,New Orleans Pelicans , Chicago Bulls,107,98,-714,522
+21800160,Utah Jazz , Dallas Mavericks,117,102,-500,388
+21800161,Sacramento Kings , Toronto Raptors,105,114,376,-476
+21800162,Los Angeles Lakers , Minnesota Timberwolves,114,110,-244,204
+21800163,Oklahoma City Thunder , Houston Rockets,98,80,175,-208
+21800164,Phoenix Suns , Boston Celtics,109,116,395,-500
+21800165,Portland Trail Blazers , Los Angeles Clippers,116,105,-204,175
+21800166,Golden State Warriors , Milwaukee Bucks,111,134,-256,216
+21800167,Orlando Magic , Washington Wizards,117,108,146,-169
+21800168,Philadelphia 76ers , Charlotte Hornets,133,132,-238,200
+21800169,Atlanta Hawks , Detroit Pistons,109,124,183,-217
+21800170,Miami Heat , Indiana Pacers,102,110,114,-133
+21800171,Denver Nuggets , Brooklyn Nets,110,112,-435,346
+21800172,Utah Jazz , Boston Celtics,123,115,-233,199
+21800173,Sacramento Kings , Minnesota Timberwolves,121,110,114,-132
+21800174,Toronto Raptors , New York Knicks,128,112,-1667,1016
+21800175,Los Angeles Clippers , Milwaukee Bucks,128,126,158,-185
+21800176,New Orleans Pelicans , Phoenix Suns,119,99,-435,351
+21800177,Miami Heat , Washington Wizards,110,116,-167,144
+21800178,Chicago Bulls , Cleveland Cavaliers,99,98,-196,164
+21800179,Memphis Grizzlies , Philadelphia 76ers,112,106,-192,164
+21800180,San Antonio Spurs , Houston Rockets,96,89,142,-167
+21800181,Dallas Mavericks , Oklahoma City Thunder,111,96,-122,104
+21800182,Golden State Warriors , Brooklyn Nets,116,100,-345,287
+21800183,Sacramento Kings , Los Angeles Lakers,86,101,199,-238
+21800184,Detroit Pistons , Charlotte Hornets,103,113,-137,118
+21800185,Houston Rockets , Indiana Pacers,115,103,-135,117
+21800186,New York Knicks , Orlando Magic,89,115,-161,138
+21800187,Denver Nuggets , Milwaukee Bucks,114,121,-164,142
+21800188,Portland Trail Blazers , Boston Celtics,100,94,-128,110
+21800189,Los Angeles Lakers , Atlanta Hawks,107,106,-769,551
+21800190,Washington Wizards , Orlando Magic,117,109,-312,260
+21800191,Miami Heat , Philadelphia 76ers,114,124,-139,119
+21800192,Toronto Raptors , New Orleans Pelicans,110,126,-556,429
+21800193,Chicago Bulls , Dallas Mavericks,98,103,120,-139
+21800194,Memphis Grizzlies , Utah Jazz,88,96,150,-175
+21800195,Minnesota Timberwolves , Brooklyn Nets,120,113,-175,152
+21800196,Oklahoma City Thunder , Phoenix Suns,118,101,-357,298
+21800197,Sacramento Kings , San Antonio Spurs,104,99,119,-137
+21800198,Los Angeles Clippers , Golden State Warriors,121,116,144,-167
+21800199,Cleveland Cavaliers , Charlotte Hornets,113,89,345,-435
+21800200,Denver Nuggets , Houston Rockets,99,109,-179,150
+21800201,Golden State Warriors , Atlanta Hawks,110,103,-833,587
+21800202,Orlando Magic , Philadelphia 76ers,111,106,195,-233
+21800203,Washington Wizards , Cleveland Cavaliers,119,95,-833,619
+21800204,Boston Celtics , Chicago Bulls,111,82,-1111,742
+21800205,Brooklyn Nets , Miami Heat,107,120,114,-133
+21800206,Toronto Raptors , Detroit Pistons,104,106,-526,411
+21800207,Milwaukee Bucks , Memphis Grizzlies,113,116,-526,400
+21800208,Minnesota Timberwolves , New Orleans Pelicans,107,100,102,-120
+21800209,Oklahoma City Thunder , New York Knicks,128,103,-385,309
+21800210,Dallas Mavericks , Utah Jazz,118,68,177,-208
+21800211,Phoenix Suns , San Antonio Spurs,116,96,202,-244
+21800212,Los Angeles Lakers , Portland Trail Blazers,126,117,-139,118
+21800213,Houston Rockets , Golden State Warriors,107,86,-172,148
+21800214,Denver Nuggets , Atlanta Hawks,138,93,-1250,811
+21800215,Los Angeles Clippers , San Antonio Spurs,116,111,-263,218
+21800216,Boston Celtics , Toronto Raptors,123,116,-127,108
+21800217,Indiana Pacers , Miami Heat,99,91,-217,183
+21800218,Philadelphia 76ers , Utah Jazz,113,107,-145,125
+21800219,Washington Wizards , Brooklyn Nets,104,115,-256,213
+21800220,Memphis Grizzlies , Sacramento Kings,112,104,-263,219
+21800221,Minnesota Timberwolves , Portland Trail Blazers,112,96,-115,-101
+21800222,New Orleans Pelicans , New York Knicks,129,124,-714,536
+21800223,Milwaukee Bucks , Chicago Bulls,123,104,-1667,973
+21800224,Brooklyn Nets , Los Angeles Clippers,119,127,158,-185
+21800225,Charlotte Hornets , Philadelphia 76ers,119,122,-145,125
+21800226,Indiana Pacers , Atlanta Hawks,97,89,-714,519
+21800227,Orlando Magic , Los Angeles Lakers,130,117,154,-179
+21800228,New Orleans Pelicans , Denver Nuggets,125,115,-108,-108
+21800229,Boston Celtics , Utah Jazz,86,98,-175,150
+21800230,Chicago Bulls , Toronto Raptors,83,122,395,-500
+21800231,Houston Rockets , Sacramento Kings,132,112,-909,663
+21800232,Dallas Mavericks , Golden State Warriors,112,109,112,-132
+21800233,Phoenix Suns , Oklahoma City Thunder,100,110,170,-200
+21800234,Minnesota Timberwolves , Memphis Grizzlies,87,100,-204,175
+21800235,Miami Heat , Los Angeles Lakers,97,113,100,-116
+21800236,Orlando Magic , New York Knicks,131,117,-189,162
+21800237,Washington Wizards , Portland Trail Blazers,109,119,-103,-111
+21800238,San Antonio Spurs , Golden State Warriors,104,92,-147,125
+21800239,Charlotte Hornets , Boston Celtics,117,112,137,-161
+21800240,Detroit Pistons , Cleveland Cavaliers,113,102,-500,391
+21800241,Indiana Pacers , Utah Jazz,121,94,144,-167
+21800242,Philadelphia 76ers , Phoenix Suns,119,114,-769,580
+21800243,Atlanta Hawks , Los Angeles Clippers,119,127,225,-278
+21800244,Memphis Grizzlies , Dallas Mavericks,98,88,-154,133
+21800245,Milwaukee Bucks , Denver Nuggets,104,98,-233,194
+21800246,New Orleans Pelicans , San Antonio Spurs,140,126,-312,254
+21800247,Sacramento Kings , Oklahoma City Thunder,117,113,160,-185
+21800248,Orlando Magic , Toronto Raptors,91,93,243,-294
+21800249,Washington Wizards , Los Angeles Clippers,125,118,-106,-109
+21800250,Miami Heat , Brooklyn Nets,92,104,-149,129
+21800251,New York Knicks , Portland Trail Blazers,114,118,239,-294
+21800252,Charlotte Hornets , Indiana Pacers,127,109,-167,144
+21800253,Philadelphia 76ers , New Orleans Pelicans,121,120,-169,146
+21800254,Atlanta Hawks , Toronto Raptors,108,124,281,-345
+21800255,Boston Celtics , New York Knicks,109,117,-1667,958
+21800256,Cleveland Cavaliers , Los Angeles Lakers,105,109,355,-455
+21800257,Chicago Bulls , Phoenix Suns,124,116,100,-118
+21800258,Houston Rockets , Detroit Pistons,126,124,-417,341
+21800259,Milwaukee Bucks , Portland Trail Blazers,143,100,-303,252
+21800260,Minnesota Timberwolves , Denver Nuggets,101,103,-110,-105
+21800261,Dallas Mavericks , Brooklyn Nets,119,113,-208,179
+21800262,San Antonio Spurs , Memphis Grizzlies,103,104,-149,129
+21800263,Utah Jazz , Sacramento Kings,110,119,-476,379
+21800264,Golden State Warriors , Oklahoma City Thunder,95,123,-103,-112
+21800265,Brooklyn Nets , Minnesota Timberwolves,102,112,108,-127
+21800266,Los Angeles Clippers , Memphis Grizzlies,112,107,-185,156
+21800267,Detroit Pistons , Houston Rockets,116,111,152,-175
+21800268,Atlanta Hawks , Boston Celtics,96,114,275,-345
+21800269,New York Knicks , New Orleans Pelicans,114,109,267,-323
+21800270,Philadelphia 76ers , Cleveland Cavaliers,112,121,-1111,728
+21800271,Toronto Raptors , Washington Wizards,125,107,-556,434
+21800272,Indiana Pacers , San Antonio Spurs,100,111,-125,106
+21800273,Chicago Bulls , Miami Heat,96,103,145,-169
+21800274,Oklahoma City Thunder , Charlotte Hornets,109,104,-270,225
+21800275,Milwaukee Bucks , Phoenix Suns,114,116,-1429,871
+21800276,Denver Nuggets , Orlando Magic,112,87,-385,307
+21800277,Golden State Warriors , Portland Trail Blazers,125,97,-116,100
+21800278,Los Angeles Lakers , Utah Jazz,90,83,-143,122
+21800279,Cleveland Cavaliers , Houston Rockets,117,108,252,-303
+21800280,Washington Wizards , New Orleans Pelicans,124,114,-159,136
+21800281,Minnesota Timberwolves , Chicago Bulls,111,96,-714,539
+21800282,Oklahoma City Thunder , Denver Nuggets,98,105,-244,204
+21800283,Dallas Mavericks , Boston Celtics,113,104,125,-145
+21800284,Milwaukee Bucks , San Antonio Spurs,135,129,-476,375
+21800285,Golden State Warriors , Sacramento Kings,117,116,-270,223
+21800286,Los Angeles Lakers , Orlando Magic,104,108,-357,290
+21800287,Detroit Pistons , Phoenix Suns,118,107,-385,309
+21800288,Atlanta Hawks , Charlotte Hornets,124,123,233,-286
+21800289,Brooklyn Nets , Philadelphia 76ers,125,127,166,-196
+21800290,Toronto Raptors , Miami Heat,125,115,-909,639
+21800291,Memphis Grizzlies , New York Knicks,98,103,-357,286
+21800292,Sacramento Kings , Utah Jazz,112,133,144,-167
+21800293,Portland Trail Blazers , Los Angeles Clippers,100,104,-179,152
+21800294,Charlotte Hornets , Milwaukee Bucks,110,107,165,-196
+21800295,Cleveland Cavaliers , Minnesota Timberwolves,95,102,200,-238
+21800296,Washington Wizards , Houston Rockets,135,131,-125,106
+21800297,Chicago Bulls , San Antonio Spurs,107,108,219,-263
+21800298,New Orleans Pelicans , Boston Celtics,107,124,-133,116
+21800299,Utah Jazz , Indiana Pacers,88,121,-196,166
+21800300,Golden State Warriors , Orlando Magic,116,110,-303,249
+21800301,Detroit Pistons , New York Knicks,115,108,-312,258
+21800302,Miami Heat , Atlanta Hawks,113,115,-333,272
+21800303,Memphis Grizzlies , Toronto Raptors,114,122,189,-227
+21800304,Denver Nuggets , Los Angeles Lakers,117,85,-149,129
+21800305,Phoenix Suns , Indiana Pacers,104,109,124,-145
+21800306,Charlotte Hornets , Atlanta Hawks,108,94,-909,617
+21800307,Philadelphia 76ers , New York Knicks,117,91,-1000,678
+21800308,Brooklyn Nets , Utah Jazz,91,101,135,-156
+21800309,Houston Rockets , Dallas Mavericks,108,128,-244,204
+21800310,Milwaukee Bucks , Chicago Bulls,116,113,-1667,952
+21800311,Minnesota Timberwolves , San Antonio Spurs,128,89,-189,162
+21800312,New Orleans Pelicans , Washington Wizards,125,104,-256,216
+21800313,Oklahoma City Thunder , Cleveland Cavaliers,100,83,-1000,705
+21800314,Portland Trail Blazers , Orlando Magic,115,112,-476,375
+21800315,Los Angeles Clippers , Phoenix Suns,115,99,-909,638
+21800316,Toronto Raptors , Golden State Warriors,131,128,-435,351
+21800317,Los Angeles Lakers , Indiana Pacers,104,96,-217,184
+21800318,Sacramento Kings , Los Angeles Clippers,121,133,114,-135
+21800319,Boston Celtics , Cleveland Cavaliers,128,95,-1111,725
+21800320,Charlotte Hornets , Utah Jazz,111,119,-135,114
+21800321,Detroit Pistons , Chicago Bulls,107,88,-417,334
+21800322,Philadelphia 76ers , Washington Wizards,123,98,-417,330
+21800323,Brooklyn Nets , Memphis Grizzlies,125,131,121,-141
+21800324,Miami Heat , New Orleans Pelicans,106,101,127,-149
+21800325,Oklahoma City Thunder , Atlanta Hawks,124,109,-1111,755
+21800326,San Antonio Spurs , Houston Rockets,105,136,141,-161
+21800327,Phoenix Suns , Orlando Magic,85,99,159,-185
+21800328,Los Angeles Lakers , Dallas Mavericks,114,103,-175,149
+21800329,Portland Trail Blazers , Denver Nuggets,112,113,-115,-101
+21800330,New York Knicks , Milwaukee Bucks,136,134,313,-385
+21800331,Detroit Pistons , Golden State Warriors,111,102,165,-196
+21800332,Cleveland Cavaliers , Toronto Raptors,95,106,619,-909
+21800333,Washington Wizards , Brooklyn Nets,102,88,-270,225
+21800334,Houston Rockets , Chicago Bulls,121,105,-1250,818
+21800335,Minnesota Timberwolves , Boston Celtics,109,118,-127,108
+21800336,Sacramento Kings , Indiana Pacers,111,110,106,-125
+21800337,Los Angeles Lakers , Phoenix Suns,120,96,-769,564
+21800338,Charlotte Hornets , New Orleans Pelicans,109,119,-147,127
+21800339,Miami Heat , Utah Jazz,102,100,147,-172
+21800340,Philadelphia 76ers , Memphis Grizzlies,103,95,-256,214
+21800341,Dallas Mavericks , Los Angeles Clippers,114,110,139,-161
+21800342,San Antonio Spurs , Portland Trail Blazers,131,118,-104,-112
+21800343,Detroit Pistons , Oklahoma City Thunder,83,110,117,-135
+21800344,Atlanta Hawks , Golden State Warriors,111,128,508,-714
+21800345,Brooklyn Nets , Cleveland Cavaliers,97,99,-250,208
+21800346,New York Knicks , Washington Wizards,107,110,116,-133
+21800347,Toronto Raptors , Denver Nuggets,103,106,-294,241
+21800348,Minnesota Timberwolves , Houston Rockets,103,91,116,-133
+21800349,New Orleans Pelicans , Los Angeles Clippers,126,129,-123,106
+21800350,Indiana Pacers , Chicago Bulls,96,90,-357,293
+21800351,Miami Heat , Orlando Magic,90,105,-145,125
+21800352,Dallas Mavericks , Portland Trail Blazers,111,102,-120,104
+21800353,Phoenix Suns , Sacramento Kings,105,122,185,-217
+21800354,Utah Jazz , San Antonio Spurs,139,105,-333,269
+21800355,Cleveland Cavaliers , Golden State Warriors,105,129,535,-769
+21800356,Orlando Magic , Denver Nuggets,118,124,162,-192
+21800357,Atlanta Hawks , Washington Wizards,117,131,137,-159
+21800358,Brooklyn Nets , Oklahoma City Thunder,112,114,223,-270
+21800359,Toronto Raptors , Philadelphia 76ers,113,102,-278,227
+21800360,Memphis Grizzlies , Los Angeles Clippers,96,86,-132,114
+21800361,Milwaukee Bucks , Detroit Pistons,115,92,-303,250
+21800362,Minnesota Timberwolves , Charlotte Hornets,121,104,-192,164
+21800363,New Orleans Pelicans , Dallas Mavericks,132,106,-222,186
+21800364,Los Angeles Lakers , San Antonio Spurs,121,113,-357,292
+21800365,Boston Celtics , New York Knicks,128,100,-1250,803
+21800366,Portland Trail Blazers , Phoenix Suns,108,86,-1111,710
+21800367,Utah Jazz , Houston Rockets,118,91,-115,-102
+21800368,Charlotte Hornets , Denver Nuggets,113,107,-115,-101
+21800369,Detroit Pistons , Philadelphia 76ers,111,117,-135,117
+21800370,Orlando Magic , Indiana Pacers,90,112,-169,145
+21800371,Brooklyn Nets , Toronto Raptors,106,105,338,-435
+21800372,Cleveland Cavaliers , Sacramento Kings,110,129,125,-145
+21800373,Chicago Bulls , Oklahoma City Thunder,114,112,348,-435
+21800374,New Orleans Pelicans , Memphis Grizzlies,103,107,-222,187
+21800375,San Antonio Spurs , Los Angeles Lakers,133,120,-104,-111
+21800376,Phoenix Suns , Miami Heat,98,115,313,-385
+21800377,Milwaukee Bucks , Golden State Warriors,95,105,-128,112
+21800378,Dallas Mavericks , Houston Rockets,107,104,139,-164
+21800379,Indiana Pacers , Sacramento Kings,107,97,-222,187
+21800380,Atlanta Hawks , Denver Nuggets,106,98,199,-238
+21800381,Cleveland Cavaliers , Washington Wizards,116,101,258,-312
+21800382,New York Knicks , Brooklyn Nets,104,112,-128,110
+21800383,Chicago Bulls , Boston Celtics,77,133,286,-357
+21800384,Memphis Grizzlies , Los Angeles Lakers,88,111,-133,114
+21800385,Portland Trail Blazers , Minnesota Timberwolves,113,105,-145,125
+21800386,Los Angeles Clippers , Miami Heat,98,121,-526,413
+21800387,Detroit Pistons , New Orleans Pelicans,108,116,123,-143
+21800388,Toronto Raptors , Milwaukee Bucks,99,104,-192,166
+21800389,New York Knicks , Charlotte Hornets,107,119,206,-250
+21800390,San Antonio Spurs , Utah Jazz,110,97,150,-175
+21800391,Indiana Pacers , Washington Wizards,109,101,-250,208
+21800392,Philadelphia 76ers , Detroit Pistons,116,102,-833,592
+21800393,Boston Celtics , New Orleans Pelicans,113,100,-132,114
+21800394,Chicago Bulls , Sacramento Kings,89,108,114,-133
+21800395,Milwaukee Bucks , Cleveland Cavaliers,108,92,-588,443
+21800396,Oklahoma City Thunder , Utah Jazz,122,113,-204,173
+21800397,Dallas Mavericks , Orlando Magic,101,76,-192,164
+21800398,Denver Nuggets , Memphis Grizzlies,105,99,-154,133
+21800399,Phoenix Suns , Los Angeles Clippers,119,123,388,-500
+21800400,Golden State Warriors , Minnesota Timberwolves,116,108,-500,395
+21800401,Los Angeles Lakers , Miami Heat,108,105,-222,188
+21800402,Houston Rockets , Portland Trail Blazers,111,104,-250,210
+21800403,San Antonio Spurs , Phoenix Suns,111,86,-1000,702
+21800404,Los Angeles Clippers , Toronto Raptors,99,123,131,-154
+21800405,Charlotte Hornets , Detroit Pistons,108,107,-238,199
+21800406,Cleveland Cavaliers , New York Knicks,113,106,-102,-114
+21800407,Indiana Pacers , Milwaukee Bucks,113,97,112,-132
+21800408,Philadelphia 76ers , Brooklyn Nets,124,127,-250,211
+21800409,Washington Wizards , Boston Celtics,125,130,146,-169
+21800410,Memphis Grizzlies , Portland Trail Blazers,92,83,-156,134
+21800411,New Orleans Pelicans , Oklahoma City Thunder,118,114,117,-135
+21800412,Dallas Mavericks , Atlanta Hawks,114,107,-500,387
+21800413,Utah Jazz , Miami Heat,111,84,-385,315
+21800414,Sacramento Kings , Minnesota Timberwolves,141,130,134,-156
+21800415,Golden State Warriors , Toronto Raptors,93,113,-333,272
+21800416,Houston Rockets , Los Angeles Lakers,126,111,-233,196
+21800417,San Antonio Spurs , Los Angeles Clippers,125,87,-149,129
+21800418,Orlando Magic , Chicago Bulls,97,91,-233,194
+21800419,Phoenix Suns , Dallas Mavericks,99,89,200,-238
+21800420,Boston Celtics , Atlanta Hawks,129,108,-1000,657
+21800421,Charlotte Hornets , New York Knicks,124,126,-588,444
+21800422,Brooklyn Nets , Washington Wizards,125,118,-147,127
+21800423,Cleveland Cavaliers , Milwaukee Bucks,102,114,386,-500
+21800424,Philadelphia 76ers , Indiana Pacers,101,113,-141,121
+21800425,Memphis Grizzlies , Miami Heat,97,100,-175,149
+21800426,Denver Nuggets , Oklahoma City Thunder,109,98,112,-130
+21800427,Portland Trail Blazers , Toronto Raptors,128,122,106,-123
+21800428,Sacramento Kings , Golden State Warriors,125,130,264,-323
+21800429,Orlando Magic , Utah Jazz,96,89,204,-244
+21800430,Charlotte Hornets , Los Angeles Lakers,100,128,100,-116
+21800431,Detroit Pistons , Boston Celtics,113,104,114,-132
+21800432,Memphis Grizzlies , Houston Rockets,97,105,171,-200
+21800433,San Antonio Spurs , Chicago Bulls,93,98,-556,437
+21800434,Oklahoma City Thunder , Los Angeles Clippers,110,104,-263,218
+21800435,Phoenix Suns , Minnesota Timberwolves,107,99,265,-323
+21800436,Brooklyn Nets , Atlanta Hawks,144,127,-303,249
+21800437,Cleveland Cavaliers , Philadelphia 76ers,105,128,334,-417
+21800438,Indiana Pacers , New York Knicks,110,99,-833,592
+21800439,Washington Wizards , Los Angeles Lakers,128,110,137,-161
+21800440,Dallas Mavericks , Sacramento Kings,113,120,-189,162
+21800441,New Orleans Pelicans , Miami Heat,96,102,-238,200
+21800442,Denver Nuggets , Toronto Raptors,95,86,-147,125
+21800443,Detroit Pistons , Milwaukee Bucks,104,107,131,-154
+21800444,New York Knicks , Phoenix Suns,110,128,102,-119
+21800445,Houston Rockets , Utah Jazz,102,97,-208,172
+21800446,Minnesota Timberwolves , Sacramento Kings,132,105,-345,277
+21800447,Oklahoma City Thunder , Chicago Bulls,121,96,-1000,701
+21800448,San Antonio Spurs , Philadelphia 76ers,123,96,-114,-103
+21800449,Golden State Warriors , Memphis Grizzlies,110,93,-1000,714
+21800450,Los Angeles Clippers , Portland Trail Blazers,127,131,-118,102
+21800451,Indiana Pacers , Cleveland Cavaliers,91,92,-1111,707
+21800452,Atlanta Hawks , Washington Wizards,118,110,133,-156
+21800453,Brooklyn Nets , Los Angeles Lakers,115,110,104,-122
+21800454,Denver Nuggets , Dallas Mavericks,126,118,-189,161
+21800455,Charlotte Hornets , Cleveland Cavaliers,110,99,-1111,756
+21800456,Orlando Magic , San Antonio Spurs,90,129,134,-156
+21800457,Philadelphia 76ers , New York Knicks,131,109,-1000,681
+21800458,Boston Celtics , Phoenix Suns,103,111,-833,610
+21800459,Toronto Raptors , Indiana Pacers,99,96,-185,159
+21800460,Chicago Bulls , Brooklyn Nets,93,96,102,-119
+21800461,Houston Rockets , Washington Wizards,136,118,-667,505
+21800462,Milwaukee Bucks , New Orleans Pelicans,123,115,-417,328
+21800463,Minnesota Timberwolves , Detroit Pistons,123,129,-227,190
+21800464,Utah Jazz , Golden State Warriors,108,103,110,-130
+21800465,Portland Trail Blazers , Memphis Grizzlies,99,92,-250,210
+21800466,Sacramento Kings , Oklahoma City Thunder,113,132,154,-179
+21800467,Miami Heat , Houston Rockets,101,99,124,-145
+21800468,Los Angeles Clippers , Dallas Mavericks,125,121,-154,134
+21800469,Charlotte Hornets , Detroit Pistons,98,86,-179,152
+21800470,Toronto Raptors , Cleveland Cavaliers,126,110,-769,560
+21800471,Brooklyn Nets , Indiana Pacers,106,114,127,-147
+21800472,New York Knicks , Atlanta Hawks,107,114,-133,114
+21800473,Boston Celtics , Milwaukee Bucks,107,120,108,-125
+21800474,Chicago Bulls , Orlando Magic,90,80,133,-154
+21800475,San Antonio Spurs , Minnesota Timberwolves,124,98,-175,149
+21800476,Portland Trail Blazers , Utah Jazz,90,120,-127,108
+21800477,Sacramento Kings , Memphis Grizzlies,102,99,-130,112
+21800478,Los Angeles Lakers , New Orleans Pelicans,112,104,-222,188
+21800479,Los Angeles Clippers , Denver Nuggets,132,111,-133,114
+21800480,Washington Wizards , Phoenix Suns,149,146,-196,168
+21800481,Philadelphia 76ers , Toronto Raptors,126,101,-312,258
+21800482,Miami Heat , Milwaukee Bucks,94,87,108,-127
+21800483,Houston Rockets , San Antonio Spurs,108,101,-200,172
+21800484,Golden State Warriors , Dallas Mavericks,120,116,-714,518
+21800485,Utah Jazz , Oklahoma City Thunder,106,107,-130,112
+21800486,Detroit Pistons , Atlanta Hawks,95,98,-476,368
+21800487,Indiana Pacers , Washington Wizards,105,89,-588,459
+21800488,Boston Celtics , Charlotte Hornets,119,103,-303,249
+21800489,Brooklyn Nets , Phoenix Suns,111,103,-417,333
+21800490,Cleveland Cavaliers , Chicago Bulls,92,112,-111,-106
+21800491,Orlando Magic , Miami Heat,91,115,-133,116
+21800492,Sacramento Kings , New Orleans Pelicans,122,117,-104,-112
+21800493,Oklahoma City Thunder , Minnesota Timberwolves,112,114,-263,221
+21800494,Golden State Warriors , Los Angeles Clippers,129,127,-667,507
+21800495,Portland Trail Blazers , Dallas Mavericks,121,118,-312,254
+21800496,Los Angeles Lakers , Memphis Grizzlies,99,107,-213,179
+21800497,New York Knicks , Milwaukee Bucks,95,109,382,-500
+21800498,Houston Rockets , Oklahoma City Thunder,113,109,-103,-112
+21800499,Boston Celtics , Philadelphia 76ers,121,114,-200,172
+21800500,Golden State Warriors , Los Angeles Lakers,101,127,-417,326
+21800501,Utah Jazz , Portland Trail Blazers,117,96,-278,233
+21800502,Detroit Pistons , Washington Wizards,106,95,-185,160
+21800503,Orlando Magic , Phoenix Suns,120,122,-222,187
+21800504,Atlanta Hawks , Indiana Pacers,121,129,221,-263
+21800505,Brooklyn Nets , Charlotte Hornets,134,132,-118,102
+21800506,Miami Heat , Toronto Raptors,104,106,121,-141
+21800507,Chicago Bulls , Minnesota Timberwolves,94,119,150,-175
+21800508,Memphis Grizzlies , Cleveland Cavaliers,95,87,-500,390
+21800509,Dallas Mavericks , New Orleans Pelicans,122,119,-130,112
+21800510,San Antonio Spurs , Denver Nuggets,111,103,-179,152
+21800511,Los Angeles Clippers , Sacramento Kings,127,118,-204,174
+21800512,Houston Rockets , Boston Celtics,127,113,122,-143
+21800513,Milwaukee Bucks , New York Knicks,112,96,-1667,927
+21800514,Sacramento Kings , Los Angeles Lakers,117,116,-185,160
+21800515,Utah Jazz , Philadelphia 76ers,97,114,-192,165
+21800516,Golden State Warriors , Portland Trail Blazers,109,110,-400,322
+21800517,Charlotte Hornets , Brooklyn Nets,100,87,-196,166
+21800518,Indiana Pacers , Detroit Pistons,125,88,-278,234
+21800519,Orlando Magic , Toronto Raptors,116,87,171,-204
+21800520,Washington Wizards , Chicago Bulls,92,101,-192,163
+21800521,Miami Heat , Cleveland Cavaliers,118,94,-588,438
+21800522,Minnesota Timberwolves , Atlanta Hawks,120,123,-455,361
+21800523,New Orleans Pelicans , Dallas Mavericks,114,112,-185,158
+21800524,Denver Nuggets , San Antonio Spurs,102,99,-189,161
+21800525,Phoenix Suns , Oklahoma City Thunder,102,118,160,-189
+21800526,Los Angeles Lakers , Los Angeles Clippers,107,118,239,-294
+21800527,Milwaukee Bucks , Brooklyn Nets,129,115,-625,473
+21800528,New Orleans Pelicans , Houston Rockets,104,108,138,-161
+21800529,Atlanta Hawks , Cleveland Cavaliers,111,108,-179,152
+21800530,Washington Wizards , Charlotte Hornets,130,126,138,-161
+21800531,Memphis Grizzlies , Boston Celtics,103,112,142,-167
+21800532,Utah Jazz , New York Knicks,129,97,-833,597
+21800533,Phoenix Suns , Denver Nuggets,118,122,163,-192
+21800534,Portland Trail Blazers , Golden State Warriors,105,115,169,-200
+21800535,Los Angeles Clippers , San Antonio Spurs,111,122,-145,125
+21800536,Orlando Magic , Detroit Pistons,109,107,-120,104
+21800537,Miami Heat , Minnesota Timberwolves,104,113,-172,148
+21800538,Toronto Raptors , Chicago Bulls,95,89,-625,484
+21800539,Dallas Mavericks , Oklahoma City Thunder,105,103,117,-135
+21800540,Portland Trail Blazers , Philadelphia 76ers,129,95,-154,133
+21800541,Los Angeles Lakers , Sacramento Kings,121,114,-123,106
+21800542,Indiana Pacers , Atlanta Hawks,116,108,-1250,790
+21800543,Charlotte Hornets , Orlando Magic,125,100,-357,288
+21800544,Houston Rockets , Memphis Grizzlies,113,101,-182,154
+21800545,San Antonio Spurs , Boston Celtics,120,111,102,-118
+21800546,New Orleans Pelicans , Minnesota Timberwolves,123,114,-222,186
+21800547,Oklahoma City Thunder , Dallas Mavericks,122,102,-312,260
+21800548,Phoenix Suns , Golden State Warriors,109,132,466,-625
+21800549,Toronto Raptors , Utah Jazz,122,116,-118,100
+21800550,Milwaukee Bucks , Detroit Pistons,121,98,-556,437
+21800551,Denver Nuggets , New York Knicks,115,108,-1250,780
+21800552,Sacramento Kings , Portland Trail Blazers,108,113,-103,-112
+21800553,Los Angeles Clippers , Philadelphia 76ers,113,119,102,-119
+21800554,Charlotte Hornets , Dallas Mavericks,84,122,-120,104
+21800555,Cleveland Cavaliers , Miami Heat,92,117,198,-238
+21800556,Washington Wizards , Atlanta Hawks,114,98,-263,216
+21800557,Brooklyn Nets , New Orleans Pelicans,126,121,104,-122
+21800558,Boston Celtics , Minnesota Timberwolves,115,102,-256,214
+21800559,Chicago Bulls , Orlando Magic,84,112,100,-116
+21800560,Memphis Grizzlies , Detroit Pistons,94,101,-256,213
+21800561,Phoenix Suns , Philadelphia 76ers,127,132,138,-159
+21800562,Los Angeles Lakers , Oklahoma City Thunder,100,107,181,-217
+21800563,San Antonio Spurs , Toronto Raptors,125,107,-161,138
+21800564,Sacramento Kings , Denver Nuggets,113,117,142,-164
+21800565,Golden State Warriors , Houston Rockets,134,135,-370,299
+21800566,Boston Celtics , Dallas Mavericks,114,93,-172,148
+21800567,Cleveland Cavaliers , Utah Jazz,91,117,398,-526
+21800568,Miami Heat , Washington Wizards,115,109,-286,237
+21800569,Chicago Bulls , Indiana Pacers,116,119,245,-303
+21800570,Memphis Grizzlies , Brooklyn Nets,100,109,-172,149
+21800571,Minnesota Timberwolves , Orlando Magic,120,103,-179,152
+21800572,Milwaukee Bucks , Atlanta Hawks,144,112,-1111,739
+21800573,Phoenix Suns , Los Angeles Clippers,111,121,164,-196
+21800574,Los Angeles Lakers , New York Knicks,112,119,-227,193
+21800575,Portland Trail Blazers , Oklahoma City Thunder,109,111,-112,-103
+21800576,Denver Nuggets , Charlotte Hornets,123,110,-435,350
+21800577,Detroit Pistons , Utah Jazz,105,110,152,-179
+21800578,Philadelphia 76ers , Dallas Mavericks,106,100,-270,222
+21800579,Cleveland Cavaliers , New Orleans Pelicans,98,133,369,-476
+21800580,Milwaukee Bucks , Toronto Raptors,116,123,-238,197
+21800581,San Antonio Spurs , Memphis Grizzlies,108,88,-400,318
+21800582,Portland Trail Blazers , Houston Rockets,110,101,-130,112
+21800583,Sacramento Kings , Golden State Warriors,123,127,275,-345
+21800584,Chicago Bulls , Brooklyn Nets,100,117,112,-132
+21800585,Minnesota Timberwolves , Los Angeles Lakers,108,86,-333,269
+21800586,Los Angeles Clippers , Orlando Magic,106,96,-278,229
+21800587,Atlanta Hawks , Miami Heat,106,82,227,-270
+21800588,Oklahoma City Thunder , Washington Wizards,98,116,-556,433
+21800589,Toronto Raptors , Indiana Pacers,121,105,-120,102
+21800590,Phoenix Suns , Charlotte Hornets,113,119,-122,104
+21800591,Detroit Pistons , San Antonio Spurs,107,119,122,-143
+21800592,Boston Celtics , Brooklyn Nets,116,95,-625,466
+21800593,Houston Rockets , Denver Nuggets,125,113,-112,-104
+21800594,Milwaukee Bucks , Utah Jazz,114,102,-217,183
+21800595,New Orleans Pelicans , Memphis Grizzlies,114,95,-196,167
+21800596,Dallas Mavericks , Los Angeles Lakers,97,107,-312,257
+21800597,Portland Trail Blazers , New York Knicks,111,101,-833,584
+21800598,Sacramento Kings , Orlando Magic,111,95,-189,161
+21800599,Cleveland Cavaliers , Indiana Pacers,115,123,397,-500
+21800600,Philadelphia 76ers , Washington Wizards,132,115,-345,283
+21800601,Miami Heat , Denver Nuggets,99,103,-130,112
+21800602,Toronto Raptors , Atlanta Hawks,104,101,-1250,786
+21800603,Oklahoma City Thunder , Minnesota Timberwolves,117,119,-357,292
+21800604,Phoenix Suns , Sacramento Kings,115,111,141,-164
+21800605,Golden State Warriors , New York Knicks,122,95,-3333,1489
+21800606,Los Angeles Clippers , Charlotte Hornets,128,109,-256,213
+21800607,Boston Celtics , Indiana Pacers,135,108,-294,245
+21800608,Washington Wizards , Philadelphia 76ers,123,106,140,-161
+21800609,Brooklyn Nets , Atlanta Hawks,116,100,-400,318
+21800610,Houston Rockets , Milwaukee Bucks,109,116,106,-123
+21800611,Memphis Grizzlies , San Antonio Spurs,96,86,120,-141
+21800612,New Orleans Pelicans , Cleveland Cavaliers,140,124,-1667,983
+21800613,Dallas Mavericks , Phoenix Suns,104,94,-667,495
+21800614,Utah Jazz , Orlando Magic,106,93,-476,370
+21800615,Portland Trail Blazers , Chicago Bulls,124,112,-526,407
+21800616,Los Angeles Lakers , Detroit Pistons,113,100,-116,100
+21800617,Miami Heat , Boston Celtics,115,99,119,-139
+21800618,Denver Nuggets , Los Angeles Clippers,121,100,-217,184
+21800619,San Antonio Spurs , Oklahoma City Thunder,154,147,102,-120
+21800620,Sacramento Kings , Detroit Pistons,112,102,-345,277
+21800621,Philadelphia 76ers , Atlanta Hawks,121,123,-526,401
+21800622,Washington Wizards , Milwaukee Bucks,113,106,108,-127
+21800623,New York Knicks , Indiana Pacers,106,121,309,-385
+21800624,Toronto Raptors , Brooklyn Nets,122,105,-556,429
+21800625,Houston Rockets , Cleveland Cavaliers,141,113,-1429,878
+21800626,Minnesota Timberwolves , Dallas Mavericks,115,119,-192,165
+21800627,Utah Jazz , Los Angeles Lakers,113,95,-370,301
+21800628,Portland Trail Blazers , Charlotte Hornets,127,96,-270,222
+21800629,Golden State Warriors , Chicago Bulls,146,109,-2000,1064
+21800630,Los Angeles Clippers , Detroit Pistons,104,109,-294,241
+21800631,Miami Heat , Memphis Grizzlies,112,108,-159,136
+21800632,Orlando Magic , Boston Celtics,105,103,242,-294
+21800633,Minnesota Timberwolves , New Orleans Pelicans,110,106,108,-125
+21800634,Oklahoma City Thunder , San Antonio Spurs,122,112,-263,217
+21800635,Phoenix Suns , Denver Nuggets,102,93,340,-435
+21800636,Sacramento Kings , Charlotte Hornets,104,97,-227,190
+21800637,Utah Jazz , Chicago Bulls,110,102,-833,578
+21800638,New York Knicks , Philadelphia 76ers,105,108,309,-385
+21800639,Washington Wizards , Toronto Raptors,138,140,175,-208
+21800640,Atlanta Hawks , Milwaukee Bucks,114,133,382,-476
+21800641,Orlando Magic , Houston Rockets,116,109,177,-208
+21800642,Dallas Mavericks , Golden State Warriors,114,119,202,-244
+21800643,Denver Nuggets , Portland Trail Blazers,116,113,-182,156
+21800644,Los Angeles Lakers , Cleveland Cavaliers,95,101,-625,474
+21800645,Brooklyn Nets , Boston Celtics,109,102,116,-135
+21800646,Houston Rockets , Memphis Grizzlies,112,94,-159,137
+21800647,San Antonio Spurs , Charlotte Hornets,93,108,-323,268
+21800648,Utah Jazz , Detroit Pistons,100,94,-333,275
+21800649,Sacramento Kings , Portland Trail Blazers,115,107,-130,110
+21800650,Los Angeles Clippers , New Orleans Pelicans,117,121,-101,-116
+21800651,Indiana Pacers , Phoenix Suns,131,97,-625,468
+21800652,Philadelphia 76ers , Minnesota Timberwolves,149,107,-244,200
+21800653,Atlanta Hawks , Oklahoma City Thunder,142,126,376,-476
+21800654,Milwaukee Bucks , Miami Heat,124,86,-400,319
+21800655,Denver Nuggets , Golden State Warriors,111,142,118,-137
+21800656,Los Angeles Lakers , Chicago Bulls,107,100,-294,240
+21800657,Detroit Pistons , Orlando Magic,120,115,-169,146
+21800658,Boston Celtics , Toronto Raptors,117,108,-145,125
+21800659,Houston Rockets , Brooklyn Nets,142,145,-233,193
+21800660,Memphis Grizzlies , Milwaukee Bucks,101,111,204,-244
+21800661,Dallas Mavericks , San Antonio Spurs,101,105,-119,102
+21800662,Portland Trail Blazers , Cleveland Cavaliers,129,112,-1429,877
+21800663,Golden State Warriors , New Orleans Pelicans,147,140,-286,238
+21800664,Los Angeles Clippers , Utah Jazz,109,129,-111,-104
+21800665,Washington Wizards , New York Knicks,101,100,-312,254
+21800666,Charlotte Hornets , Sacramento Kings,114,95,-145,124
+21800667,Indiana Pacers , Philadelphia 76ers,96,120,-149,129
+21800668,Toronto Raptors , Phoenix Suns,111,109,-455,354
+21800669,Denver Nuggets , Chicago Bulls,135,105,-1429,930
+21800670,Oklahoma City Thunder , Los Angeles Lakers,128,138,-526,401
+21800671,Boston Celtics , Memphis Grizzlies,122,116,-556,443
+21800672,Detroit Pistons , Miami Heat,98,93,-137,118
+21800673,Orlando Magic , Brooklyn Nets,115,117,-133,114
+21800674,Minnesota Timberwolves , San Antonio Spurs,113,116,-119,102
+21800675,Utah Jazz , Cleveland Cavaliers,115,99,-2000,1143
+21800676,Los Angeles Clippers , Golden State Warriors,94,112,250,-303
+21800677,Portland Trail Blazers , New Orleans Pelicans,128,112,-152,131
+21800678,Philadelphia 76ers , Oklahoma City Thunder,115,117,-159,138
+21800679,Charlotte Hornets , Phoenix Suns,135,115,-294,243
+21800680,Detroit Pistons , Sacramento Kings,101,103,-102,-114
+21800681,Indiana Pacers , Dallas Mavericks,111,99,-323,262
+21800682,Orlando Magic , Milwaukee Bucks,108,118,424,-556
+21800683,Atlanta Hawks , Boston Celtics,105,113,235,-286
+21800684,Toronto Raptors , Memphis Grizzlies,119,90,-667,486
+21800685,Chicago Bulls , Miami Heat,103,117,147,-172
+21800686,Houston Rockets , Los Angeles Lakers,138,134,-294,245
+21800687,Denver Nuggets , Cleveland Cavaliers,124,102,-5000,1519
+21800688,Indiana Pacers , Charlotte Hornets,120,95,-345,280
+21800689,Minnesota Timberwolves , Phoenix Suns,116,114,-1000,672
+21800690,San Antonio Spurs , Los Angeles Clippers,95,103,-476,376
+21800691,New York Knicks , Oklahoma City Thunder,109,127,337,-435
+21800692,Cleveland Cavaliers , Chicago Bulls,88,104,120,-139
+21800693,Washington Wizards , Detroit Pistons,101,87,-227,192
+21800694,Milwaukee Bucks , Dallas Mavericks,116,106,-714,513
+21800695,Atlanta Hawks , Orlando Magic,103,122,-135,116
+21800696,Brooklyn Nets , Sacramento Kings,123,94,-167,143
+21800697,Memphis Grizzlies , New Orleans Pelicans,85,105,-145,124
+21800698,Boston Celtics , Miami Heat,107,99,-400,316
+21800699,Philadelphia 76ers , Houston Rockets,121,93,-185,160
+21800700,Utah Jazz , Portland Trail Blazers,104,109,-213,181
+21800701,Los Angeles Lakers , Golden State Warriors,111,130,736,-1111
+21800702,Toronto Raptors , Sacramento Kings,120,105,-667,488
+21800703,Oklahoma City Thunder , Portland Trail Blazers,123,114,-179,152
+21800704,Dallas Mavericks , Los Angeles Clippers,106,98,-147,125
+21800705,Phoenix Suns , Minnesota Timberwolves,91,118,149,-175
+21800706,Indiana Pacers , Toronto Raptors,110,106,-244,206
+21800707,Boston Celtics , Cleveland Cavaliers,123,103,-1667,994
+21800708,Brooklyn Nets , Orlando Magic,114,110,-204,173
+21800709,Miami Heat , Los Angeles Clippers,99,111,-222,189
+21800710,New York Knicks , Houston Rockets,110,114,288,-357
+21800711,Philadelphia 76ers , San Antonio Spurs,122,120,-141,123
+21800712,Chicago Bulls , Atlanta Hawks,101,121,-120,104
+21800713,Memphis Grizzlies , Charlotte Hornets,107,118,-119,102
+21800714,New Orleans Pelicans , Detroit Pistons,94,98,-204,174
+21800715,Utah Jazz , Denver Nuggets,114,108,-179,152
+21800716,Washington Wizards , Golden State Warriors,118,126,367,-476
+21800717,Oklahoma City Thunder , New Orleans Pelicans,122,116,-1250,832
+21800718,Phoenix Suns , Portland Trail Blazers,106,120,319,-400
+21800719,Los Angeles Lakers , Minnesota Timberwolves,105,120,-132,112
+21800720,Orlando Magic , Washington Wizards,91,95,-159,136
+21800721,Brooklyn Nets , New York Knicks,109,99,-435,344
+21800722,Cleveland Cavaliers , Miami Heat,94,100,321,-400
+21800723,Chicago Bulls , Los Angeles Clippers,101,106,169,-200
+21800724,Houston Rockets , Toronto Raptors,121,119,138,-161
+21800725,Memphis Grizzlies , Sacramento Kings,96,99,-130,112
+21800726,Dallas Mavericks , Detroit Pistons,106,101,-196,167
+21800727,Milwaukee Bucks , Charlotte Hornets,108,99,-769,555
+21800728,Denver Nuggets , Phoenix Suns,132,95,-2000,1089
+21800729,Utah Jazz , Minnesota Timberwolves,106,102,-588,459
+21800730,New Orleans Pelicans , San Antonio Spurs,114,126,161,-189
+21800731,Memphis Grizzlies , Indiana Pacers,106,103,171,-204
+21800732,Boston Celtics , Golden State Warriors,111,115,142,-167
+21800733,Denver Nuggets , Philadelphia 76ers,126,110,-588,444
+21800734,Portland Trail Blazers , Atlanta Hawks,120,111,-417,326
+21800735,Chicago Bulls , Cleveland Cavaliers,101,104,-185,159
+21800736,Los Angeles Clippers , Sacramento Kings,122,108,-161,138
+21800737,Houston Rockets , Orlando Magic,103,98,-417,323
+21800738,Oklahoma City Thunder , Milwaukee Bucks,118,112,102,-119
+21800739,Dallas Mavericks , Toronto Raptors,120,123,163,-192
+21800740,Minnesota Timberwolves , Utah Jazz,111,125,184,-217
+21800741,New York Knicks , Miami Heat,97,106,179,-213
+21800742,San Antonio Spurs , Washington Wizards,132,119,-172,150
+21800743,Los Angeles Lakers , Phoenix Suns,116,102,-333,272
+21800744,Charlotte Hornets , New York Knicks,101,92,-909,629
+21800745,Indiana Pacers , Golden State Warriors,100,132,264,-323
+21800746,Boston Celtics , Brooklyn Nets,112,104,-435,347
+21800747,Memphis Grizzlies , Denver Nuggets,92,95,194,-233
+21800748,Los Angeles Clippers , Atlanta Hawks,118,123,-244,206
+21800749,Cleveland Cavaliers , Washington Wizards,116,113,277,-345
+21800750,Detroit Pistons , Milwaukee Bucks,105,115,246,-303
+21800751,Orlando Magic , Oklahoma City Thunder,117,126,135,-159
+21800752,Brooklyn Nets , Chicago Bulls,122,117,-270,224
+21800753,Houston Rockets , New Orleans Pelicans,116,121,-1250,844
+21800754,San Antonio Spurs , Phoenix Suns,126,124,-1250,827
+21800755,Los Angeles Lakers , Philadelphia 76ers,105,121,252,-312
+21800756,Boston Celtics , Charlotte Hornets,126,94,-312,258
+21800757,Miami Heat , Chicago Bulls,89,105,-625,482
+21800758,New York Knicks , Dallas Mavericks,90,114,242,-294
+21800759,Washington Wizards , Indiana Pacers,107,89,-112,-103
+21800760,Minnesota Timberwolves , Memphis Grizzlies,99,97,-154,133
+21800761,New Orleans Pelicans , Denver Nuggets,99,105,354,-455
+21800762,Sacramento Kings , Atlanta Hawks,135,113,-213,177
+21800763,Portland Trail Blazers , Utah Jazz,132,105,122,-141
+21800764,Detroit Pistons , Dallas Mavericks,93,89,-323,265
+21800765,Orlando Magic , Indiana Pacers,107,100,-159,136
+21800766,Toronto Raptors , Milwaukee Bucks,92,105,-141,121
+21800767,San Antonio Spurs , Brooklyn Nets,117,114,-323,265
+21800768,Golden State Warriors , Philadelphia 76ers,104,113,-357,294
+21800769,Los Angeles Clippers , Los Angeles Lakers,120,123,110,-128
+21800770,Charlotte Hornets , Memphis Grizzlies,100,92,-357,288
+21800771,New York Knicks , Boston Celtics,99,113,851,-1429
+21800772,Miami Heat , Oklahoma City Thunder,102,118,144,-169
+21800773,Utah Jazz , Atlanta Hawks,128,112,-909,620
+21800774,Denver Nuggets , Houston Rockets,136,122,-156,135
+21800775,Detroit Pistons , Los Angeles Clippers,101,111,-137,118
+21800776,Charlotte Hornets , Chicago Bulls,125,118,-286,234
+21800777,Orlando Magic , Brooklyn Nets,102,89,-152,129
+21800778,Washington Wizards , Milwaukee Bucks,115,131,210,-250
+21800779,San Antonio Spurs , New Orleans Pelicans,113,108,-625,463
+21800780,Cleveland Cavaliers , Dallas Mavericks,98,111,181,-217
+21800781,Miami Heat , Indiana Pacers,88,95,-132,114
+21800782,Golden State Warriors , Los Angeles Lakers,115,101,-1667,1016
+21800783,Minnesota Timberwolves , Denver Nuggets,106,107,-119,102
+21800784,Phoenix Suns , Atlanta Hawks,112,118,-130,110
+21800785,Sacramento Kings , Philadelphia 76ers,115,108,127,-149
+21800786,Utah Jazz , Houston Rockets,98,125,-286,239
+21800787,New York Knicks , Memphis Grizzlies,84,96,118,-137
+21800788,Boston Celtics , Oklahoma City Thunder,134,129,-179,152
+21800789,Toronto Raptors , Los Angeles Clippers,121,103,-476,367
+21800790,Detroit Pistons , Denver Nuggets,129,103,114,-135
+21800791,Washington Wizards , Atlanta Hawks,129,137,-286,235
+21800792,Brooklyn Nets , Milwaukee Bucks,94,113,246,-303
+21800793,New Orleans Pelicans , Indiana Pacers,107,109,138,-161
+21800794,Phoenix Suns , Houston Rockets,110,118,329,-417
+21800795,Sacramento Kings , San Antonio Spurs,127,112,110,-128
+21800796,Charlotte Hornets , Los Angeles Clippers,115,117,-159,136
+21800797,Cleveland Cavaliers , Boston Celtics,96,103,480,-625
+21800798,Indiana Pacers , Los Angeles Lakers,136,94,117,-137
+21800799,New York Knicks , Detroit Pistons,92,105,133,-156
+21800800,Philadelphia 76ers , Toronto Raptors,107,119,-133,114
+21800801,Memphis Grizzlies , Minnesota Timberwolves,108,106,143,-167
+21800802,Oklahoma City Thunder , Orlando Magic,132,122,-435,341
+21800803,Portland Trail Blazers , Miami Heat,108,118,-333,268
+21800804,Brooklyn Nets , Denver Nuggets,135,130,135,-156
+21800805,Chicago Bulls , New Orleans Pelicans,120,125,102,-119
+21800806,Milwaukee Bucks , Washington Wizards,148,129,-769,572
+21800807,Dallas Mavericks , Charlotte Hornets,99,93,-227,190
+21800808,Utah Jazz , Phoenix Suns,116,88,-1667,973
+21800809,Sacramento Kings , Houston Rockets,101,127,149,-175
+21800810,Golden State Warriors , San Antonio Spurs,141,102,-2000,1044
+21800811,Indiana Pacers , Los Angeles Clippers,116,92,-263,220
+21800812,Orlando Magic , Minnesota Timberwolves,122,112,-164,140
+21800813,Atlanta Hawks , Toronto Raptors,101,119,233,-278
+21800814,Boston Celtics , Los Angeles Lakers,128,129,-417,334
+21800815,Oklahoma City Thunder , Memphis Grizzlies,117,95,-1250,835
+21800816,Portland Trail Blazers , San Antonio Spurs,127,118,-250,210
+21800817,Detroit Pistons , New York Knicks,120,103,-333,274
+21800818,Philadelphia 76ers , Denver Nuggets,117,110,-244,204
+21800819,Washington Wizards , Cleveland Cavaliers,119,106,-526,405
+21800820,Brooklyn Nets , Chicago Bulls,106,125,-370,295
+21800821,Dallas Mavericks , Milwaukee Bucks,107,122,199,-238
+21800822,Phoenix Suns , Golden State Warriors,107,117,1247,-2500
+21800823,New Orleans Pelicans , Minnesota Timberwolves,122,117,-233,198
+21800824,Sacramento Kings , Miami Heat,102,96,-164,140
+21800825,Utah Jazz , San Antonio Spurs,125,105,-345,282
+21800826,Indiana Pacers , Cleveland Cavaliers,105,90,-1429,894
+21800827,Atlanta Hawks , Charlotte Hornets,120,129,110,-130
+21800828,New York Knicks , Toronto Raptors,99,104,824,-1250
+21800829,Boston Celtics , Los Angeles Clippers,112,123,-833,586
+21800830,Chicago Bulls , Washington Wizards,125,134,112,-132
+21800831,Memphis Grizzlies , New Orleans Pelicans,99,90,-118,100
+21800832,Houston Rockets , Oklahoma City Thunder,112,117,-137,118
+21800833,Milwaukee Bucks , Orlando Magic,83,103,-270,222
+21800834,Dallas Mavericks , Portland Trail Blazers,102,101,131,-154
+21800835,Philadelphia 76ers , Los Angeles Lakers,143,120,-286,240
+21800836,Sacramento Kings , Phoenix Suns,117,104,-455,353
+21800837,Atlanta Hawks , Orlando Magic,108,124,-101,-115
+21800838,Golden State Warriors , Miami Heat,120,118,-1250,822
+21800839,Cleveland Cavaliers , New York Knicks,107,104,-112,-103
+21800840,Detroit Pistons , Washington Wizards,121,112,-244,206
+21800841,Indiana Pacers , Charlotte Hornets,99,90,-217,183
+21800842,Toronto Raptors , Brooklyn Nets,127,125,-588,442
+21800843,Chicago Bulls , Milwaukee Bucks,99,112,538,-769
+21800844,Houston Rockets , Dallas Mavericks,120,104,-667,499
+21800845,Minnesota Timberwolves , Los Angeles Clippers,130,120,-167,144
+21800846,Oklahoma City Thunder , Portland Trail Blazers,120,111,-189,162
+21800847,Denver Nuggets , Miami Heat,103,87,-476,379
+21800848,Atlanta Hawks , Los Angeles Lakers,117,113,195,-233
+21800849,Philadelphia 76ers , Boston Celtics,109,112,-294,242
+21800850,Memphis Grizzlies , San Antonio Spurs,107,108,261,-312
+21800851,New Orleans Pelicans , Orlando Magic,88,118,-196,166
+21800852,Golden State Warriors , Utah Jazz,115,108,-435,348
+21800853,Cleveland Cavaliers , Brooklyn Nets,139,148,260,-323
+21800854,Indiana Pacers , Milwaukee Bucks,97,106,160,-189
+21800855,Boston Celtics , Detroit Pistons,118,110,-169,145
+21800856,New York Knicks , Philadelphia 76ers,111,126,422,-556
+21800857,Toronto Raptors , Washington Wizards,129,120,-476,375
+21800858,Chicago Bulls , Memphis Grizzlies,122,110,-120,104
+21800859,Dallas Mavericks , Miami Heat,101,112,-154,133
+21800860,Denver Nuggets , Sacramento Kings,120,118,-312,256
+21800861,Minnesota Timberwolves , Houston Rockets,121,111,158,-185
+21800862,Portland Trail Blazers , Golden State Warriors,129,107,114,-133
+21800863,Los Angeles Clippers , Phoenix Suns,134,107,-333,268
+21800864,Orlando Magic , Charlotte Hornets,127,89,-172,148
+21800865,Atlanta Hawks , New York Knicks,91,106,-345,278
+21800866,New Orleans Pelicans , Oklahoma City Thunder,131,122,161,-189
+21800867,Cleveland Cavaliers , Phoenix Suns,111,98,-115,-101
+21800868,Philadelphia 76ers , Miami Heat,106,102,-244,204
+21800869,Brooklyn Nets , Portland Trail Blazers,99,113,127,-149
+21800870,Milwaukee Bucks , Boston Celtics,98,97,-256,215
+21800871,Golden State Warriors , Sacramento Kings,125,123,-1000,664
+21800872,Los Angeles Lakers , Houston Rockets,111,106,127,-149
+21800873,Charlotte Hornets , Washington Wizards,123,110,-213,179
+21800874,Indiana Pacers , New Orleans Pelicans,126,111,-213,179
+21800875,Orlando Magic , Chicago Bulls,109,110,-357,291
+21800876,Toronto Raptors , San Antonio Spurs,120,117,-370,296
+21800877,Atlanta Hawks , Detroit Pistons,122,125,167,-196
+21800878,New York Knicks , Minnesota Timberwolves,104,115,150,-179
+21800879,Memphis Grizzlies , Los Angeles Clippers,106,112,122,-143
+21800880,Dallas Mavericks , Denver Nuggets,104,114,241,-294
+21800881,Oklahoma City Thunder , Utah Jazz,148,147,-175,150
+21800882,Philadelphia 76ers , Portland Trail Blazers,115,130,-120,104
+21800883,Atlanta Hawks , Phoenix Suns,120,112,-161,137
+21800884,Charlotte Hornets , Brooklyn Nets,115,117,-161,139
+21800885,Cleveland Cavaliers , Memphis Grizzlies,112,107,-118,100
+21800886,Washington Wizards , Indiana Pacers,112,119,-111,-104
+21800887,New Orleans Pelicans , Los Angeles Lakers,128,115,216,-263
+21800888,Miami Heat , Detroit Pistons,96,119,-164,140
+21800889,Chicago Bulls , Boston Celtics,126,116,432,-556
+21800890,Oklahoma City Thunder , Sacramento Kings,116,119,-244,206
+21800891,Milwaukee Bucks , Minnesota Timberwolves,140,128,-1111,741
+21800892,Golden State Warriors , Houston Rockets,112,118,-833,600
+21800893,Utah Jazz , Dallas Mavericks,125,109,-833,581
+21800894,Toronto Raptors , Orlando Magic,98,113,-303,248
+21800895,Denver Nuggets , Los Angeles Clippers,123,96,-476,370
+21800896,New York Knicks , San Antonio Spurs,130,118,347,-435
+21800897,Charlotte Hornets , Golden State Warriors,110,121,318,-400
+21800898,Cleveland Cavaliers , Portland Trail Blazers,110,123,351,-455
+21800899,Detroit Pistons , Indiana Pacers,113,109,-139,119
+21800900,Brooklyn Nets , San Antonio Spurs,101,85,-122,104
+21800901,Miami Heat , Phoenix Suns,121,124,-333,270
+21800902,Chicago Bulls , Milwaukee Bucks,106,117,289,-357
+21800903,Houston Rockets , Atlanta Hawks,119,111,-1000,711
+21800904,Memphis Grizzlies , Los Angeles Lakers,110,105,184,-222
+21800905,Minnesota Timberwolves , Sacramento Kings,112,105,-161,138
+21800906,New Orleans Pelicans , Philadelphia 76ers,110,111,114,-132
+21800907,Los Angeles Clippers , Dallas Mavericks,121,112,-161,138
+21800908,New York Knicks , Orlando Magic,108,103,264,-323
+21800909,Toronto Raptors , Boston Celtics,118,95,-161,138
+21800910,Denver Nuggets , Oklahoma City Thunder,121,112,-159,138
+21800911,Charlotte Hornets , Houston Rockets,113,118,184,-217
+21800912,Atlanta Hawks , Minnesota Timberwolves,131,123,169,-200
+21800913,Boston Celtics , Portland Trail Blazers,92,97,-139,121
+21800914,Brooklyn Nets , Washington Wizards,116,125,-213,179
+21800915,Miami Heat , Golden State Warriors,126,125,395,-526
+21800916,Memphis Grizzlies , Chicago Bulls,107,109,-156,133
+21800917,San Antonio Spurs , Detroit Pistons,105,93,-182,154
+21800918,Dallas Mavericks , Indiana Pacers,110,101,-101,-115
+21800919,Utah Jazz , Los Angeles Clippers,111,105,-526,405
+21800920,Sacramento Kings , Milwaukee Bucks,140,141,219,-263
+21800921,Los Angeles Lakers , New Orleans Pelicans,125,119,-263,219
+21800922,Indiana Pacers , Minnesota Timberwolves,122,115,-161,138
+21800923,Orlando Magic , Golden State Warriors,103,96,159,-189
+21800924,New York Knicks , Cleveland Cavaliers,118,125,-123,106
+21800925,Houston Rockets , Miami Heat,121,118,-476,373
+21800926,Denver Nuggets , Utah Jazz,104,111,-312,254
+21800927,Oklahoma City Thunder , Philadelphia 76ers,104,108,-175,149
+21800928,Atlanta Hawks , Chicago Bulls,161,168,-109,-105
+21800929,Brooklyn Nets , Charlotte Hornets,112,123,-145,124
+21800930,Toronto Raptors , Portland Trail Blazers,119,117,-200,170
+21800931,Boston Celtics , Washington Wizards,107,96,-526,417
+21800932,Phoenix Suns , New Orleans Pelicans,116,130,158,-185
+21800933,Sacramento Kings , Los Angeles Clippers,109,116,-154,131
+21800934,Los Angeles Lakers , Milwaukee Bucks,120,131,195,-233
+21800935,Cleveland Cavaliers , Detroit Pistons,93,129,289,-357
+21800936,Indiana Pacers , Orlando Magic,112,117,-152,129
+21800937,Miami Heat , Brooklyn Nets,117,88,-135,117
+21800938,Philadelphia 76ers , Golden State Warriors,117,120,175,-208
+21800939,Dallas Mavericks , Memphis Grizzlies,81,111,-196,168
+21800940,San Antonio Spurs , Oklahoma City Thunder,116,102,-204,174
+21800941,Denver Nuggets , New Orleans Pelicans,112,120,-1250,794
+21800942,Phoenix Suns , Los Angeles Lakers,118,109,238,-294
+21800943,Utah Jazz , Milwaukee Bucks,115,111,-185,160
+21800944,Charlotte Hornets , Portland Trail Blazers,108,118,116,-135
+21800945,Boston Celtics , Houston Rockets,104,115,-130,112
+21800946,Chicago Bulls , Atlanta Hawks,118,123,-175,150
+21800947,Los Angeles Clippers , New York Knicks,128,107,-556,436
+21800948,Cleveland Cavaliers , Orlando Magic,107,93,204,-244
+21800949,Detroit Pistons , Toronto Raptors,112,107,110,-128
+21800950,Washington Wizards , Minnesota Timberwolves,135,121,-110,-106
+21800951,Oklahoma City Thunder , Memphis Grizzlies,99,95,-556,432
+21800952,Brooklyn Nets , Dallas Mavericks,127,88,-233,194
+21800953,Miami Heat , Atlanta Hawks,114,113,-556,426
+21800954,San Antonio Spurs , Denver Nuggets,104,103,-119,102
+21800955,Phoenix Suns , Milwaukee Bucks,114,105,744,-1111
+21800956,Utah Jazz , New Orleans Pelicans,112,115,-526,409
+21800957,Sacramento Kings , New York Knicks,115,108,-667,508
+21800958,Los Angeles Lakers , Los Angeles Clippers,105,113,-169,145
+21800959,Indiana Pacers , Chicago Bulls,105,96,-278,231
+21800960,Philadelphia 76ers , Orlando Magic,114,106,-185,158
+21800961,Toronto Raptors , Houston Rockets,95,107,-159,136
+21800962,Memphis Grizzlies , Portland Trail Blazers,120,111,191,-227
+21800963,Minnesota Timberwolves , Oklahoma City Thunder,131,120,110,-128
+21800964,Golden State Warriors , Boston Celtics,95,128,-270,225
+21800965,Charlotte Hornets , Miami Heat,84,91,-159,136
+21800966,Detroit Pistons , Minnesota Timberwolves,131,114,-200,170
+21800967,Washington Wizards , Dallas Mavericks,132,123,-227,189
+21800968,Atlanta Hawks , San Antonio Spurs,104,111,189,-227
+21800969,Brooklyn Nets , Cleveland Cavaliers,113,107,-476,380
+21800970,Chicago Bulls , Philadelphia 76ers,108,107,149,-172
+21800971,New Orleans Pelicans , Utah Jazz,104,114,169,-196
+21800972,Phoenix Suns , New York Knicks,107,96,-169,145
+21800973,Sacramento Kings , Boston Celtics,109,111,110,-128
+21800974,Los Angeles Lakers , Denver Nuggets,99,115,175,-204
+21800975,Milwaukee Bucks , Indiana Pacers,117,98,-500,395
+21800976,Portland Trail Blazers , Oklahoma City Thunder,121,129,-161,140
+21800977,Charlotte Hornets , Washington Wizards,112,111,-182,156
+21800978,Orlando Magic , Dallas Mavericks,111,106,-286,236
+21800979,Miami Heat , Cleveland Cavaliers,126,110,-417,333
+21800980,Chicago Bulls , Detroit Pistons,104,112,145,-169
+21800981,Houston Rockets , Philadelphia 76ers,107,91,-345,282
+21800982,Memphis Grizzlies , Utah Jazz,114,104,171,-204
+21800983,New Orleans Pelicans , Toronto Raptors,104,127,315,-400
+21800984,Golden State Warriors , Denver Nuggets,122,105,-270,225
+21800985,Los Angeles Clippers , Oklahoma City Thunder,118,110,-127,108
+21800986,New York Knicks , Sacramento Kings,94,102,192,-233
+21800987,Atlanta Hawks , Brooklyn Nets,112,114,160,-189
+21800988,Minnesota Timberwolves , Washington Wizards,135,130,-294,240
+21800989,Los Angeles Lakers , Boston Celtics,107,120,254,-312
+21800990,Milwaukee Bucks , Charlotte Hornets,131,114,-833,604
+21800991,Portland Trail Blazers , Phoenix Suns,127,120,-909,651
+21800992,Detroit Pistons , Chicago Bulls,131,108,-417,334
+21800993,Miami Heat , Toronto Raptors,104,125,-125,108
+21800994,Philadelphia 76ers , Indiana Pacers,106,89,-263,220
+21800995,Atlanta Hawks , New Orleans Pelicans,128,116,-111,-103
+21800996,Memphis Grizzlies , Orlando Magic,105,97,-111,-104
+21800997,Dallas Mavericks , Houston Rockets,93,94,324,-400
+21800998,Minnesota Timberwolves , New York Knicks,103,92,-263,221
+21800999,San Antonio Spurs , Milwaukee Bucks,121,114,112,-132
+21801000,Golden State Warriors , Phoenix Suns,111,115,-3333,1382
+21801001,Cleveland Cavaliers , Toronto Raptors,126,101,342,-435
+21801002,Washington Wizards , Sacramento Kings,121,115,-132,114
+21801003,Brooklyn Nets , Detroit Pistons,103,75,-135,116
+21801004,Houston Rockets , Charlotte Hornets,118,106,-526,403
+21801005,Utah Jazz , Oklahoma City Thunder,89,98,-161,140
+21801006,Los Angeles Clippers , Boston Celtics,140,115,108,-125
+21801007,Indiana Pacers , New York Knicks,103,98,-714,536
+21801008,Philadelphia 76ers , Cleveland Cavaliers,106,99,-2000,1030
+21801009,Chicago Bulls , Los Angeles Lakers,107,123,112,-133
+21801010,New Orleans Pelicans , Milwaukee Bucks,113,130,455,-588
+21801011,Dallas Mavericks , San Antonio Spurs,105,112,135,-159
+21801012,Denver Nuggets , Minnesota Timberwolves,133,107,-588,440
+21801013,Los Angeles Clippers , Portland Trail Blazers,104,125,141,-164
+21801014,Miami Heat , Detroit Pistons,108,74,-135,114
+21801015,Washington Wizards , Orlando Magic,100,90,-122,104
+21801016,Atlanta Hawks , Memphis Grizzlies,132,111,104,-120
+21801017,Oklahoma City Thunder , Brooklyn Nets,108,96,-294,244
+21801018,Houston Rockets , Golden State Warriors,104,106,-172,147
+21801019,Phoenix Suns , Utah Jazz,97,114,321,-400
+21801020,Indiana Pacers , Oklahoma City Thunder,108,106,-114,-102
+21801021,Orlando Magic , Cleveland Cavaliers,120,91,-385,313
+21801022,Boston Celtics , Sacramento Kings,126,120,-323,267
+21801023,Toronto Raptors , Los Angeles Lakers,111,98,-303,249
+21801024,Utah Jazz , Minnesota Timberwolves,120,100,-417,333
+21801025,Denver Nuggets , Dallas Mavericks,100,99,-769,551
+21801026,Detroit Pistons , Los Angeles Lakers,111,97,-1111,717
+21801027,Philadelphia 76ers , Sacramento Kings,123,114,-588,458
+21801028,Washington Wizards , Charlotte Hornets,110,116,-152,129
+21801029,Miami Heat , Milwaukee Bucks,98,113,179,-213
+21801030,Houston Rockets , Phoenix Suns,108,102,-1000,675
+21801031,New Orleans Pelicans , Portland Trail Blazers,110,122,343,-435
+21801032,San Antonio Spurs , New York Knicks,109,83,-1250,789
+21801033,Los Angeles Clippers , Chicago Bulls,128,121,-417,336
+21801034,Boston Celtics , Atlanta Hawks,129,120,-625,466
+21801035,Washington Wizards , Memphis Grizzlies,135,128,-120,104
+21801036,New Orleans Pelicans , Phoenix Suns,136,138,-196,167
+21801037,Dallas Mavericks , Cleveland Cavaliers,121,116,-222,189
+21801038,Oklahoma City Thunder , Golden State Warriors,88,110,-127,108
+21801039,San Antonio Spurs , Portland Trail Blazers,108,103,-137,119
+21801040,Denver Nuggets , Indiana Pacers,102,100,-286,234
+21801041,Utah Jazz , Brooklyn Nets,114,98,-417,330
+21801042,New York Knicks , Los Angeles Lakers,124,123,164,-192
+21801043,Milwaukee Bucks , Philadelphia 76ers,125,130,-238,199
+21801044,Detroit Pistons , Toronto Raptors,110,107,-119,102
+21801045,Miami Heat , Charlotte Hornets,93,75,-156,135
+21801046,Orlando Magic , Atlanta Hawks,101,91,-385,309
+21801047,Sacramento Kings , Chicago Bulls,129,102,-278,227
+21801048,Houston Rockets , Minnesota Timberwolves,117,102,-500,388
+21801049,Los Angeles Clippers , Brooklyn Nets,119,116,-233,194
+21801050,Cleveland Cavaliers , Detroit Pistons,126,119,225,-270
+21801051,Washington Wizards , Utah Jazz,95,116,185,-222
+21801052,Boston Celtics , Denver Nuggets,105,114,-172,148
+21801053,Toronto Raptors , New York Knicks,128,92,-909,635
+21801054,Oklahoma City Thunder , Miami Heat,107,116,-227,191
+21801055,San Antonio Spurs , Golden State Warriors,111,105,127,-147
+21801056,Dallas Mavericks , New Orleans Pelicans,125,129,-200,170
+21801057,Phoenix Suns , Chicago Bulls,101,116,-137,119
+21801058,Portland Trail Blazers , Indiana Pacers,106,98,-185,159
+21801059,Charlotte Hornets , Philadelphia 76ers,114,118,-119,102
+21801060,Atlanta Hawks , Houston Rockets,105,121,282,-345
+21801061,Milwaukee Bucks , Los Angeles Lakers,115,101,-667,486
+21801062,Minnesota Timberwolves , Golden State Warriors,107,117,218,-263
+21801063,Sacramento Kings , Brooklyn Nets,121,123,-154,134
+21801064,Los Angeles Clippers , Indiana Pacers,115,109,-213,181
+21801065,Cleveland Cavaliers , Milwaukee Bucks,107,102,202,-238
+21801066,Orlando Magic , New Orleans Pelicans,119,96,-455,362
+21801067,Philadelphia 76ers , Boston Celtics,118,115,-161,140
+21801068,New York Knicks , Utah Jazz,116,137,719,-1111
+21801069,Chicago Bulls , Washington Wizards,126,120,154,-179
+21801070,Memphis Grizzlies , Houston Rockets,126,125,189,-227
+21801071,San Antonio Spurs , Miami Heat,105,110,-244,204
+21801072,Oklahoma City Thunder , Toronto Raptors,114,123,-200,170
+21801073,Portland Trail Blazers , Dallas Mavericks,126,118,-526,411
+21801074,Charlotte Hornets , Minnesota Timberwolves,113,106,-238,199
+21801075,Washington Wizards , Denver Nuggets,108,113,309,-385
+21801076,Atlanta Hawks , Utah Jazz,117,114,258,-312
+21801077,Phoenix Suns , Detroit Pistons,98,118,227,-270
+21801078,Sacramento Kings , Dallas Mavericks,116,100,-417,334
+21801079,Golden State Warriors , Indiana Pacers,112,89,-714,526
+21801080,Orlando Magic , Memphis Grizzlies,123,119,-625,473
+21801081,Cleveland Cavaliers , Los Angeles Clippers,108,110,239,-286
+21801082,New York Knicks , Denver Nuggets,93,111,550,-769
+21801083,Toronto Raptors , Oklahoma City Thunder,109,116,-130,112
+21801084,Houston Rockets , San Antonio Spurs,111,105,-263,218
+21801085,Milwaukee Bucks , Miami Heat,116,87,-333,275
+21801086,Los Angeles Lakers , Brooklyn Nets,106,111,120,-139
+21801087,Charlotte Hornets , Boston Celtics,124,117,145,-169
+21801088,Atlanta Hawks , Philadelphia 76ers,129,127,254,-312
+21801089,Washington Wizards , Miami Heat,108,113,-120,104
+21801090,Chicago Bulls , Utah Jazz,83,114,535,-714
+21801091,Memphis Grizzlies , Minnesota Timberwolves,99,112,-110,-106
+21801092,Golden State Warriors , Dallas Mavericks,91,126,-1250,794
+21801093,Portland Trail Blazers , Detroit Pistons,117,112,-217,183
+21801094,Sacramento Kings , Phoenix Suns,112,103,-667,494
+21801095,New York Knicks , Los Angeles Clippers,113,124,316,-385
+21801096,Milwaukee Bucks , Cleveland Cavaliers,127,105,-1429,836
+21801097,Indiana Pacers , Denver Nuggets,124,88,102,-120
+21801098,Toronto Raptors , Charlotte Hornets,114,115,-769,549
+21801099,New Orleans Pelicans , Houston Rockets,90,113,407,-526
+21801100,Boston Celtics , San Antonio Spurs,96,115,108,-127
+21801101,Golden State Warriors , Detroit Pistons,121,114,-556,423
+21801102,Los Angeles Lakers , Sacramento Kings,111,106,-104,-112
+21801103,Orlando Magic , Philadelphia 76ers,119,98,-128,112
+21801104,Memphis Grizzlies , Oklahoma City Thunder,115,103,288,-357
+21801105,Utah Jazz , Phoenix Suns,125,92,-1429,916
+21801106,Portland Trail Blazers , Brooklyn Nets,148,144,-250,211
+21801107,Charlotte Hornets , San Antonio Spurs,125,116,160,-185
+21801108,Cleveland Cavaliers , Boston Celtics,106,116,202,-238
+21801109,Miami Heat , Orlando Magic,99,104,-161,139
+21801110,Toronto Raptors , Chicago Bulls,112,103,-1667,963
+21801111,Milwaukee Bucks , Houston Rockets,108,94,-156,135
+21801112,Minnesota Timberwolves , Los Angeles Clippers,111,122,127,-147
+21801113,New Orleans Pelicans , Atlanta Hawks,120,130,118,-137
+21801114,Dallas Mavericks , Sacramento Kings,121,125,112,-132
+21801115,Denver Nuggets , Detroit Pistons,95,92,-333,271
+21801116,Los Angeles Lakers , Washington Wizards,124,106,-141,121
+21801117,Chicago Bulls , Portland Trail Blazers,98,118,351,-435
+21801118,Memphis Grizzlies , Golden State Warriors,103,118,401,-526
+21801119,Oklahoma City Thunder , Indiana Pacers,107,99,-286,234
+21801120,Phoenix Suns , Washington Wizards,121,124,-101,-115
+21801121,Utah Jazz , Los Angeles Lakers,115,100,-2000,1089
+21801122,Detroit Pistons , Orlando Magic,115,98,-156,134
+21801123,Philadelphia 76ers , Brooklyn Nets,123,110,-312,259
+21801124,Miami Heat , Dallas Mavericks,105,99,-250,208
+21801125,New York Knicks , Toronto Raptors,92,117,458,-588
+21801126,Houston Rockets , Denver Nuggets,112,85,-244,204
+21801127,Milwaukee Bucks , Los Angeles Clippers,128,118,-556,428
+21801128,New Orleans Pelicans , Sacramento Kings,121,118,222,-263
+21801129,San Antonio Spurs , Cleveland Cavaliers,116,110,-833,613
+21801130,Boston Celtics , Indiana Pacers,114,112,-294,242
+21801131,Atlanta Hawks , Portland Trail Blazers,98,118,122,-143
+21801132,Minnesota Timberwolves , Golden State Warriors,131,130,425,-556
+21801133,Oklahoma City Thunder , Denver Nuggets,105,115,-192,164
+21801134,Utah Jazz , Washington Wizards,128,124,-1111,755
+21801135,Los Angeles Lakers , Charlotte Hornets,129,115,110,-130
+21801136,Los Angeles Clippers , Cleveland Cavaliers,132,108,-400,328
+21801137,Brooklyn Nets , Boston Celtics,110,96,-172,150
+21801138,Houston Rockets , Sacramento Kings,119,108,-556,429
+21801139,Detroit Pistons , Portland Trail Blazers,99,90,-233,197
+21801140,Indiana Pacers , Orlando Magic,116,121,-122,106
+21801141,New York Knicks , Miami Heat,92,100,249,-303
+21801142,Chicago Bulls , Toronto Raptors,101,124,467,-625
+21801143,Minnesota Timberwolves , Philadelphia 76ers,109,118,162,-189
+21801144,Phoenix Suns , Memphis Grizzlies,115,120,112,-130
+21801145,Atlanta Hawks , Milwaukee Bucks,136,135,114,-133
+21801146,Oklahoma City Thunder , Dallas Mavericks,103,106,-1000,692
+21801147,New Orleans Pelicans , Los Angeles Lakers,102,130,-156,135
+21801148,Denver Nuggets , Washington Wizards,90,95,-625,472
+21801149,San Antonio Spurs , Sacramento Kings,106,113,-588,448
+21801150,Golden State Warriors , Charlotte Hornets,137,90,-769,548
+21801151,Los Angeles Clippers , Memphis Grizzlies,113,96,-526,400
+21801152,Indiana Pacers , Detroit Pistons,111,102,-222,186
+21801153,Boston Celtics , Miami Heat,110,105,-278,233
+21801154,Brooklyn Nets , Milwaukee Bucks,121,131,-119,102
+21801155,New York Knicks , Chicago Bulls,113,105,-164,141
+21801156,Toronto Raptors , Orlando Magic,121,109,-278,229
+21801157,Minnesota Timberwolves , Portland Trail Blazers,122,132,135,-156
+21801158,Dallas Mavericks , Philadelphia 76ers,122,102,170,-200
+21801159,Utah Jazz , Charlotte Hornets,111,102,-714,514
+21801160,Phoenix Suns , Cleveland Cavaliers,122,113,-125,106
+21801161,Oklahoma City Thunder , Los Angeles Lakers,119,103,-1000,695
+21801162,San Antonio Spurs , Atlanta Hawks,117,111,-769,546
+21801163,Sacramento Kings , Houston Rockets,105,130,206,-250
+21801164,Golden State Warriors , Denver Nuggets,116,102,-400,317
+21801165,Detroit Pistons , Indiana Pacers,89,108,-141,121
+21801166,Orlando Magic , New York Knicks,114,100,-1111,764
+21801167,Washington Wizards , Chicago Bulls,114,115,-526,405
+21801168,Atlanta Hawks , Philadelphia 76ers,130,122,161,-189
+21801169,Brooklyn Nets , Toronto Raptors,105,115,112,-132
+21801170,Miami Heat , Boston Celtics,102,112,-108,-108
+21801171,New Orleans Pelicans , Charlotte Hornets,109,115,167,-196
+21801172,Dallas Mavericks , Minnesota Timberwolves,108,110,-135,116
+21801173,Denver Nuggets , San Antonio Spurs,113,85,-200,171
+21801174,Phoenix Suns , Utah Jazz,97,118,476,-625
+21801175,Portland Trail Blazers , Memphis Grizzlies,116,89,-667,493
+21801176,Los Angeles Clippers , Houston Rockets,103,135,122,-141
+21801177,Philadelphia 76ers , Milwaukee Bucks,122,128,169,-200
+21801178,Sacramento Kings , Cleveland Cavaliers,117,104,-500,396
+21801179,Los Angeles Lakers , Golden State Warriors,90,108,815,-1250
+21801180,Charlotte Hornets , Toronto Raptors,113,111,208,-250
+21801181,Orlando Magic , Atlanta Hawks,149,113,-417,332
+21801182,Washington Wizards , San Antonio Spurs,112,129,225,-270
+21801183,Indiana Pacers , Boston Celtics,97,117,100,-119
+21801184,Houston Rockets , New York Knicks,120,96,-5000,1625
+21801185,Minnesota Timberwolves , Miami Heat,111,109,150,-179
+21801186,Oklahoma City Thunder , Detroit Pistons,123,110,-244,204
+21801187,Dallas Mavericks , Memphis Grizzlies,112,122,-179,152
+21801188,Utah Jazz , Sacramento Kings,119,98,-556,413
+21801189,Phoenix Suns , New Orleans Pelicans,133,126,121,-143
+21801190,Denver Nuggets , Portland Trail Blazers,119,110,-250,206
+21801191,Golden State Warriors , Cleveland Cavaliers,120,114,-2000,1167
+21801192,Los Angeles Clippers , Los Angeles Lakers,117,122,-769,547
+21801193,Milwaukee Bucks , Brooklyn Nets,128,133,-156,134
+21801194,Chicago Bulls , Philadelphia 76ers,96,116,426,-556
+21801195,Toronto Raptors , Miami Heat,117,109,-238,204
+21801196,Cleveland Cavaliers , San Antonio Spurs,90,112,328,-417
+21801197,Minnesota Timberwolves , Oklahoma City Thunder,126,132,225,-278
+21801198,Detroit Pistons , Charlotte Hornets,91,104,-278,229
+21801199,Indiana Pacers , Brooklyn Nets,96,108,-139,119
+21801200,Houston Rockets , Phoenix Suns,149,113,-5000,1721
+21801201,Memphis Grizzlies , Dallas Mavericks,127,129,-103,-114
+21801202,Milwaukee Bucks , Atlanta Hawks,115,107,-833,583
+21801203,Boston Celtics , Orlando Magic,108,116,-175,149
+21801204,New York Knicks , Washington Wizards,113,110,145,-169
+21801205,Golden State Warriors , Los Angeles Clippers,131,104,-769,559
+21801206,Portland Trail Blazers , Denver Nuggets,115,108,-385,313
+21801207,Sacramento Kings , New Orleans Pelicans,129,133,-769,580
+21801208,Los Angeles Lakers , Utah Jazz,113,109,607,-833
+21801209,Cleveland Cavaliers , Charlotte Hornets,97,124,325,-400
+21801210,Detroit Pistons , Memphis Grizzlies,100,93,-1000,705
+21801211,Washington Wizards , Boston Celtics,110,116,-196,168
+21801212,Miami Heat , Philadelphia 76ers,122,99,-250,213
+21801213,Chicago Bulls , New York Knicks,86,96,-127,108
+21801214,Minnesota Timberwolves , Toronto Raptors,100,120,282,-345
+21801215,New Orleans Pelicans , Golden State Warriors,103,112,370,-455
+21801216,Dallas Mavericks , Phoenix Suns,120,109,-385,308
+21801217,Utah Jazz , Denver Nuggets,118,108,-127,108
+21801218,Oklahoma City Thunder , Houston Rockets,112,111,129,-149
+21801219,Los Angeles Lakers , Portland Trail Blazers,101,104,379,-476
+21801220,Atlanta Hawks , Indiana Pacers,134,135,-222,186
+21801221,Brooklyn Nets , Miami Heat,113,94,-200,170
+21801222,Charlotte Hornets , Orlando Magic,114,122,-175,150
+21801223,New York Knicks , Detroit Pistons,89,115,328,-417
+21801224,Philadelphia 76ers , Chicago Bulls,125,109,-233,194
+21801225,Memphis Grizzlies , Golden State Warriors,132,117,184,-222
+21801226,Milwaukee Bucks , Oklahoma City Thunder,116,127,161,-189
+21801227,San Antonio Spurs , Dallas Mavericks,105,94,-1429,844
+21801228,Denver Nuggets , Minnesota Timberwolves,99,95,-909,626
+21801229,Los Angeles Clippers , Utah Jazz,143,137,-312,259
+21801230,Portland Trail Blazers , Sacramento Kings,136,131,-154,131
