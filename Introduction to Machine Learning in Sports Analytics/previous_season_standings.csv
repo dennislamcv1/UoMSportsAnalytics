@@ -1,0 +1,31 @@
+goalsAgainst,goalsScored,points,divisionRank,divisionL10Rank,divisionRoadRank,divisionHomeRank,conferenceRank,conferenceL10Rank,conferenceRoadRank,conferenceHomeRank,leagueRank,leagueL10Rank,leagueRoadRank,leagueHomeRank,wildCardRank,row,gamesPlayed,clinchIndicator,pointsPercentage,ppDivisionRank,ppConferenceRank,ppLeagueRank,lastUpdated,team.id,team.name,team.link,leagueRecord.wins,leagueRecord.losses,leagueRecord.ot,leagueRecord.type,streak.streakType,streak.streakNumber,streak.streakCode
+182,263,118,1,1,2,1,1,2,2,1,1,4,3,1,0,53,82,p,0.7195121951219512,1,1,1,2021-07-08T10:37:40Z,15,Washington Capitals,/api/v1/teams/15,55,19,8,league,losses,1,L1
+234,282,111,2,5,4,2,2,10,8,2,2,18,13,2,0,46,82,x,0.676829268292683,2,2,2,2021-07-08T10:37:40Z,5,Pittsburgh Penguins,/api/v1/teams/5,50,21,11,league,losses,2,L2
+195,249,108,3,7,3,3,3,15,3,3,4,27,4,4,0,48,82,x,0.6585365853658537,3,3,4,2021-07-08T10:37:40Z,29,Columbus Blue Jackets,/api/v1/teams/29,50,24,8,league,wins,1,W1
+220,256,102,4,6,1,7,5,12,1,12,9,22,1,22,1,45,82,x,0.6219512195121951,4,5,9,2021-07-08T10:37:40Z,3,New York Rangers,/api/v1/teams/3,48,28,6,league,wins,1,W1
+242,241,94,5,2,5,6,9,3,10,8,17,7,16,15,3,39,82,,0.573170731707317,5,9,16,2021-07-08T10:37:40Z,2,New York Islanders,/api/v1/teams/2,41,29,12,league,wins,6,W6
+236,219,88,6,3,7,4,11,4,14,4,19,8,24,9,5,32,82,,0.5365853658536586,6,11,19,2021-07-08T10:37:40Z,4,Philadelphia Flyers,/api/v1/teams/4,39,33,10,league,ot,1,OT1
+236,215,87,7,4,6,5,12,8,13,6,21,16,23,13,6,33,82,,0.5304878048780488,7,12,21,2021-07-08T10:37:40Z,12,Carolina Hurricanes,/api/v1/teams/12,36,31,15,league,wins,1,W1
+244,183,70,8,8,8,8,16,16,16,16,27,29,26,29,10,25,82,,0.4268292682926829,8,16,28,2021-07-08T10:37:40Z,1,New Jersey Devils,/api/v1/teams/1,28,40,14,league,losses,3,L3
+200,226,103,1,3,1,1,4,6,4,5,7,10,6,11,0,44,82,y,0.6280487804878049,1,4,8,2021-07-08T10:37:40Z,8,Montréal Canadiens,/api/v1/teams/8,47,26,9,league,wins,1,W1
+214,212,98,2,6,3,2,6,11,6,7,12,19,11,14,0,38,82,x,0.5975609756097561,2,6,12,2021-07-08T10:37:40Z,9,Ottawa Senators,/api/v1/teams/9,44,28,10,league,losses,1,L1
+212,234,95,3,2,2,5,7,5,5,11,13,9,8,21,0,42,82,x,0.5792682926829268,3,7,13,2021-07-08T10:37:40Z,6,Boston Bruins,/api/v1/teams/6,44,31,7,league,losses,1,L1
+242,251,95,4,4,4,4,8,7,7,10,14,11,12,18,2,39,82,x,0.5792682926829268,4,8,14,2021-07-08T10:37:40Z,10,Toronto Maple Leafs,/api/v1/teams/10,40,27,15,league,losses,1,L1
+227,234,94,5,1,5,3,10,1,9,9,18,2,14,17,4,38,82,,0.573170731707317,5,10,18,2021-07-08T10:37:40Z,14,Tampa Bay Lightning,/api/v1/teams/14,42,30,10,league,wins,3,W3
+237,210,81,6,7,6,7,13,13,11,14,23,23,19,26,7,30,82,,0.49390243902439024,6,13,23,2021-07-08T10:37:40Z,13,Florida Panthers,/api/v1/teams/13,35,36,11,league,wins,2,W2
+244,207,79,7,5,7,8,14,9,12,15,25,17,22,28,8,24,82,,0.4817073170731707,7,14,25,2021-07-08T10:37:40Z,17,Detroit Red Wings,/api/v1/teams/17,33,36,13,league,wins,1,W1
+237,201,78,8,8,8,6,15,14,15,13,26,25,25,23,9,31,82,,0.47560975609756095,8,15,26,2021-07-08T10:37:40Z,7,Buffalo Sabres,/api/v1/teams/7,33,37,12,league,losses,2,L2
+213,244,109,1,6,1,1,1,9,1,2,3,20,2,5,0,46,82,z,0.6646341463414634,1,1,3,2021-07-08T10:37:40Z,16,Chicago Blackhawks,/api/v1/teams/16,50,23,9,league,ot,1,OT1
+208,266,106,2,3,2,2,2,5,2,4,5,12,5,7,0,46,82,x,0.6463414634146342,2,2,5,2021-07-08T10:37:40Z,30,Minnesota Wild,/api/v1/teams/30,49,25,8,league,wins,4,W4
+218,235,99,3,2,3,4,5,4,4,7,10,6,9,12,0,44,82,x,0.6036585365853658,3,6,11,2021-07-08T10:37:40Z,19,St. Louis Blues,/api/v1/teams/19,46,29,7,league,wins,3,W3
+224,240,94,4,4,5,3,8,6,10,5,16,13,21,8,2,39,82,x,0.573170731707317,4,7,15,2021-07-08T10:37:40Z,18,Nashville Predators,/api/v1/teams/18,41,29,12,league,losses,1,L1
+256,249,87,5,1,4,6,9,3,8,11,20,5,18,24,3,37,82,,0.5304878048780488,5,9,20,2021-07-08T10:37:40Z,52,Winnipeg Jets,/api/v1/teams/52,40,35,7,league,wins,7,W7
+262,223,79,6,5,6,5,11,8,11,8,24,15,27,16,5,33,82,,0.4817073170731707,6,11,24,2021-07-08T10:37:40Z,25,Dallas Stars,/api/v1/teams/25,34,37,11,league,wins,1,W1
+278,166,48,7,7,7,7,14,13,14,14,30,28,30,30,8,21,82,,0.2926829268292683,7,14,30,2021-07-08T10:37:40Z,21,Colorado Avalanche,/api/v1/teams/21,22,56,4,league,losses,1,L1
+200,223,105,1,1,4,1,3,1,7,1,6,1,17,3,0,43,82,y,0.6402439024390244,1,3,6,2021-07-08T10:37:40Z,24,Anaheim Ducks,/api/v1/teams/24,46,23,13,league,wins,4,W4
+212,247,103,2,2,1,3,4,2,3,6,8,3,7,10,0,43,82,x,0.6280487804878049,2,4,7,2021-07-08T10:37:40Z,22,Edmonton Oilers,/api/v1/teams/22,47,26,9,league,wins,3,W3
+201,221,99,3,6,3,2,6,12,6,3,11,26,15,6,0,44,82,x,0.6036585365853658,3,5,10,2021-07-08T10:37:40Z,28,San Jose Sharks,/api/v1/teams/28,46,29,7,league,wins,1,W1
+221,226,94,4,5,2,4,7,11,5,9,15,24,10,19,1,41,82,x,0.573170731707317,4,8,17,2021-07-08T10:37:40Z,20,Calgary Flames,/api/v1/teams/20,45,33,4,league,losses,1,L1
+205,201,86,5,3,5,5,10,7,9,10,22,14,20,20,4,37,82,,0.524390243902439,5,10,22,2021-07-08T10:37:40Z,26,Los Angeles Kings,/api/v1/teams/26,39,35,8,league,ot,1,OT1
+260,197,70,6,4,6,7,12,10,12,13,28,21,28,27,6,24,82,,0.4268292682926829,6,12,27,2021-07-08T10:37:40Z,53,Arizona Coyotes,/api/v1/teams/53,30,42,10,league,losses,1,L1
+243,182,69,7,7,7,6,13,14,13,12,29,30,29,25,7,26,82,,0.42073170731707316,7,13,29,2021-07-08T10:37:40Z,23,Vancouver Canucks,/api/v1/teams/23,30,43,9,league,losses,8,L8
